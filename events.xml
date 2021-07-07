@@ -90,4 +90,12 @@
 <dateEnd>9-Dec-2021</dateEnd>
 <description>THE INTERSECTION OF CO-LOCATED TECHNOLOGY EVENTS: Microsoft SQL Server Azure SQL Conference and Azure + AI Conference</description>
 </event>
+<event category="Community">
+<title lang="en">DataGrillen 2022</title>
+<url>http://www.DataGrillen.com</url>
+<dateStart>02-June-2022</dateStart>
+<dateEnd>02-June-2022</dateEnd>
+<description>Databases, Bratwurst, Bier
+The most flavoursome Data Platform event on the planet</description>
+</event>
 </events>
