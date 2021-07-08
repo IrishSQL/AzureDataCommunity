@@ -63,6 +63,15 @@
 <description>Data Saturday #1Minnesota is a free virtual one-day event for all data learners and professionals seeking to learn.</description>
 </event>
 <event category="Community">
+<title lang="en">New Stars of Data</title>
+<url>https://www.newstarsofdata.com</url>
+<dateStart>22-October-2021</dateStart>
+<dateEnd>22-October-2021</dateEnd>
+<description>New Stars of Data is the event for new speakers in the Microsoft Data Platform space.
+This online event is the perfect start for people who have not spoken at any large events before. Based on the idea behind the famous 'Newcomer Track' at DataGrillen; we are searching for the next generation of speakers who want to take their first steps into the realm of presenting their ideas to an audience. 
+We offer a mentoring program to each chosen speaker. A mentor is a seasoned speaker who will help craft and practice your session. They will also be on hand during the presentation as a host/mentor and be able to offer the support you need to deliver a fantastic presentation. </description>
+</event>
+<event category="Community">
 <title lang="en">Difinity</title>
 <url>https://difinity.co.nz/</url>
 <dateStart>01-Nov-2021</dateStart>
