@@ -28,6 +28,14 @@
 <description>Dativerse is a new event in the Microsoft Data Platform space with the aim that all its speakers contribute to the diversity of the Microsoft Data Platform Community. We try to elevate those that are usually underrepresented at conferences due to their race, gender, sexual orientation, location or any other reason. </description>
 </event>
 <event category="Community">
+<title lang="en">SQL Friday Autumn 2021</title>
+<url>https://sqlfriday.net</url>
+<dateStart>20-Aug-2021</dateStart>
+<dateEnd>17-Dec-2021</dateEnd>
+<description>SQL Friday is a weekly online event, happening at noon Central European Time every Friday. One one-hour session is presented in a Microsoft Teams meeting for a live, online audience, then recorded and later published to Youtube. 
+The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
+</event>
+<event category="Community">
 <title lang="en">Data Saturday #15 Plovdiv</title>
 <url>https://datasaturdays.com/2021-08-28-datasaturday0015/</url>
 <dateStart>28-Aug-2021</dateStart>
