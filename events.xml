@@ -42,6 +42,12 @@
 <description>SQL Friday is a weekly online event, happening at noon Central European Time every Friday. One one-hour session is presented in a Microsoft Teams meeting for a live, online audience, then recorded and later published to Youtube. 
 The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
 </event>
+ <event category="Community"><title lang="en">Beginner Data Science Day</title>
+<url>https://wit.sqlugs.com/2021/06/11/data-platform-wit-beginner-data-science-day/</url>
+<dateStart>20-August-2021</dateStart>
+<dateEnd>20-August-2021</dateEnd>
+<description>We are Data Platform WIT (women-in-tech) group and this is our next day long event featuring women speakers on beginner level data science topics. Our call for speakers is still open. We close CFS 8th August and meetup registration for attendance opens soon after.</description>
+</event>
 <event category="Community">
 <title lang="en">Data Saturday #15 Plovdiv</title>
 <url>https://datasaturdays.com/2021-08-28-datasaturday0015/</url>
