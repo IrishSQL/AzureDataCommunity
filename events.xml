@@ -28,6 +28,13 @@
 <description>Dativerse is a new event in the Microsoft Data Platform space with the aim that all its speakers contribute to the diversity of the Microsoft Data Platform Community. We try to elevate those that are usually underrepresented at conferences due to their race, gender, sexual orientation, location or any other reason. </description>
 </event>
 <event category="Community">
+<title lang="en">Beginner Data Science Day</title>
+<url>https://wit.sqlugs.com/2021/06/11/data-platform-wit-beginner-data-science-day/</url>
+<dateStart>20-August-2021</dateStart>
+<dateEnd>20-August-2021</dateEnd>
+<description>We are Data Platform WIT (women-in-tech) group and this is our next day long event featuring women speakers on beginner level data science topics. Our call for speakers is still open. We close CFS 8th August and meetup registration for attendance opens soon after.</description>
+</event>
+<event category="Community">
 <title lang="en">SQL Friday Autumn 2021</title>
 <url>https://sqlfriday.net</url>
 <dateStart>20-Aug-2021</dateStart>
@@ -62,6 +69,12 @@ The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in 
 <dateStart>09-Oct-2021</dateStart>
 <dateEnd>09-Oct-2021</dateEnd>
 <description>Data Saturday #10 Sofia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more. We are planning event to be a hybrid event.</description>
+</event>
+<event category="Community"><title lang="en">Future Data Driven Summit</title>
+<url>http://datadrivencommunity.com</url>
+<dateStart>29-September-2021</dateStart>
+<dateEnd>29-September-2021</dateEnd>
+<description>Future Data Driven is a marquee, online event focusing on the comprehensive Microsoft Data Platform. Our mission is to inform and update attendees with Data & AI, DevOps & DataOps, PowerBI & Visualization, Integration & Automation and cloud infrastructure. We are excited to welcome you to participate at our free first ever Future Data Driven online event.</description>
 </event>
 <event category="Community">
 <title lang="en">Data Saturday #13 Minnesota</title>
