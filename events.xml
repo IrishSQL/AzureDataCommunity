@@ -70,12 +70,6 @@ The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in 
 <dateEnd>09-Oct-2021</dateEnd>
 <description>Data Saturday #10 Sofia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more. We are planning event to be a hybrid event.</description>
 </event>
-<event category="Community"><title lang="en">Future Data Driven Summit</title>
-<url>http://datadrivencommunity.com</url>
-<dateStart>29-September-2021</dateStart>
-<dateEnd>29-September-2021</dateEnd>
-<description>Future Data Driven is a marquee, online event focusing on the comprehensive Microsoft Data Platform. Our mission is to inform and update attendees with Data & AI, DevOps & DataOps, PowerBI & Visualization, Integration & Automation and cloud infrastructure. We are excited to welcome you to participate at our free first ever Future Data Driven online event.</description>
-</event>
 <event category="Community">
 <title lang="en">Data Saturday #13 Minnesota</title>
 <url>https://datasaturdays.com/2021-10-16-datasaturday0013/</url>
