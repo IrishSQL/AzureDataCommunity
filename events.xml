@@ -106,6 +106,17 @@ The Teams links that you need to participate in the conference will be inserted 
 This online event is the perfect start for people who have not spoken at any large events before. We are searching for the next generation of speakers who want to take their first steps into the realm of presenting their ideas to an audience. 
 We offer a mentoring program to each chosen speaker. A mentor is a seasoned speaker who will help craft and practice your session. They will also be on hand during the presentation as a host/mentor and be able to offer the support you need to deliver a fantastic presentation. </description>
 </event>
+<event category="Community"><title lang="en">GroupBy Conference</title>
+<url>https://groupby.org/</url>
+<dateStart>26-October-2021</dateStart>
+<dateEnd>27-October-2021</dateEnd>
+<description>GroupBy is data platform training by the community, for the community.
+Each session will be 60-minutes in length, followed by 15-minutes for Q and A and 15-minutes for whimsy and fun. 
+After submitting your session, the community votes on their top picks to present October 26-27!
+
+On Tuesday, October 26 GroupBy Americas will present sessions at timeslots accessible for American timezones.
+On Wednesday, October 27 GroupBy Europe will present sessions at timeslots accessible for European timezones.</description>
+</event>
 <event category="Community">
 <title lang="en">SQL Saturday Orlando 2021</title>
 <url>https://sqlsaturday.com/2021-10-31-sqlsaturday1021/</url>
