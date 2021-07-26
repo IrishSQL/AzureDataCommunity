@@ -89,14 +89,6 @@ The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in 
 <dateEnd>09-Oct-2021</dateEnd>
 <description>Data Saturday #1Minnesota is a free virtual one-day event for all data learners and professionals seeking to learn.</description>
 </event>
-<event category="Community"><title lang="en">DBCC Internationsl 2021</title>
-<url>https://sessionize.com/dbcc-international-2021/</url>
-<dateStart>15-October-2021</dateStart>
-<dateEnd>15-October-2021</dateEnd>
-<description>After the success of the Data Blaster Community Conference (DBCC) in June and both DBCC events in 2020, we will be organizing DBCC International this year again.
-On Friday October 15th, 2021 the time has come to continue the virtual conference format on an international level. In three parallel tracks, 21 short lectures are planned for you, which represent many topics from the Data Platform in a varied format and provide exciting content for both beginners and advanced participants.
-The Teams links that you need to participate in the conference will be inserted on this page as soon as the schedule has been set. By the way, you don’t have to register, anyone who clicks on the corresponding team link can simply participate.</description>
-</event>
 <event category="Community">
 <title lang="en">New Stars of Data</title>
 <url>https://www.newstarsofdata.com</url>
@@ -105,19 +97,6 @@ The Teams links that you need to participate in the conference will be inserted 
 <description>New Stars of Data is the event for new speakers in the Microsoft Data Platform space.
 This online event is the perfect start for people who have not spoken at any large events before. We are searching for the next generation of speakers who want to take their first steps into the realm of presenting their ideas to an audience. 
 We offer a mentoring program to each chosen speaker. A mentor is a seasoned speaker who will help craft and practice your session. They will also be on hand during the presentation as a host/mentor and be able to offer the support you need to deliver a fantastic presentation. </description>
-</event>
-<event category="Community">
-<title lang="en">GroupBy Conference</title>
-<url>https://groupby.org/</url>
-<dateStart>26-October-2021</dateStart>
-<dateEnd>26-October-2021</dateEnd>
-<description>GroupBy is data platform training by the community, for the community.
-
-Each session will be 60-minutes in length, followed by 15-minutes for Q&A and 15-minutes for whimsy and fun. 
-After submitting your session, the community votes on their top picks to present October 26-27!
-
-On Tuesday, October 26 GroupBy Americas will present sessions at timeslots accessible for American timezones.
-On Wednesday, October 27 GroupBy Europe will present sessions at timeslots accessible for European timezones.</description>
 </event>
 <event category="Community">
 <title lang="en">SQL Saturday Orlando 2021</title>
