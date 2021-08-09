@@ -13,12 +13,6 @@
 <dateEnd>Fall TBD</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
-<event category="Community"><title lang="en">Data Geeks Saturday</title>
-<url>https://data-geeks.org/data-geeks-saturday/</url>
-<dateStart>07-August-2021</dateStart>
-<dateEnd>07-August-2021</dateEnd>
-<description>Data Geeks Saturday is a full day of quality training for Data Professionals to learn about Data Platform Development and administration, Business Intelligence, Data and Analytics, Artificial Intelligence, Data Science, IoT Data, Cloud Data, Data Visualization, Personal Branding, Professional Development; to connect with peers, have fun and win prizes!</description>
-</event>
 <event category="Community">
 <title lang="en">Dativerse</title>
 <url>https://datagrillen.com/dativerse/</url>
