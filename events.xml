@@ -139,6 +139,12 @@ On Wednesday, October 27 GroupBy Europe will present sessions at timeslots acces
 <dateEnd>02-Nov-2021</dateEnd>
 <description>Difinity is the largest Microsoft Data, AI, Power BI, Power Platform and Business Applications Conference in New Zealand focusing on Data Platform, AI, Business Intelligence, Business Applications, Power Platform, and Analytics.</description>
 </event>
+ <event category="Community"><title lang="en">DataWeekender v4.2</title>
+<url>https://www.dataweekender.com/</url>
+<dateStart>06-Nov-2021</dateStart>
+<dateEnd>06-Nov-2021</dateEnd>
+<description>A Virtual Popup Conference. Focusing on all Microsoft Data Platform offerings.</description>
+</event>
 <event category="Community">
 <title lang="en">PASS Summit 2021</title>
 <url>https://passdatacommunitysummit.com/</url>
