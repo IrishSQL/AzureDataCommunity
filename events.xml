@@ -13,12 +13,19 @@
 <dateEnd>Fall TBD</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
-<event category="Community">
-<title lang="en">Dativerse</title>
-<url>https://datagrillen.com/dativerse/</url>
-<dateStart>13-Aug-2021</dateStart>
-<dateEnd>13-Aug-2021</dateEnd>
-<description>Dativerse is a new event in the Microsoft Data Platform space with the aim that all its speakers contribute to the diversity of the Microsoft Data Platform Community. We try to elevate those that are usually underrepresented at conferences due to their race, gender, sexual orientation, location or any other reason. </description>
+<event category="Community"><title lang="en">New Speaker Library - Call for Sessions</title>
+<url>https://sessionize.com/new-stars-speaker-improvement</url>
+<dateStart>11-August-2021</dateStart>
+<dateEnd>11-August-2021</dateEnd>
+<description>We're looking for seasoned speakers, willing to share their experience and knowledge to help new and old stars to build better presentations. Potential topics could include but are not limited to:
+- creating an abstract
+- building a slide deck
+- designing session flows
+- turning a slide deck into a presentation
+- accessible presentations
+- inclusive language
+- or how to pre-record a session.
+Our goal is to build a free content library that’s available to everyone to help them improve their sessions – no matter if it’s their first or 100th, even though we think new speakers will benefit the most.</description>
 </event>
 <event category="Community">
 <title lang="en">Beginner Data Science Day</title>
