@@ -100,6 +100,22 @@ This time we’re also having expert panels between sessions discussing topics, 
 <dateEnd>29-Sept-2021</dateEnd>
 <description>Future Data Driven is a marquee, online event focusing on the comprehensive Microsoft Data Platform. Our mission is to inform and update attendees with Data and AI, DevOps and DataOps, PowerBI and Visualization, Integration and Automation and cloud infrastructure. We are excited to welcome you to participate at our free first ever Future Data Driven online event.</description>
 </event>
+ <event category="Community"><title lang="en">Azure data governance: Maximize the Value of Your Data in the Cloud</title>
+<url>https://azuredatagovernance.eventcore.com/auth/login?ocid=AID3037774_QSG_542286</url>
+<dateStart>28-Sept-2021</dateStart>
+<dateEnd>28-Sept-2021</dateEnd>
+<description>Achieve unified data governance with Azure Purview
+Learn to unify and simplify your data management at this free digital event.
+
+Get a holistic, up-to-date map of all your on-premises, multicloud, and software as a service (SaaS) data with Azure Purview, a unified data governance solution. Join Microsoft Corporate Vice President Rohan Kumar at this free digital event for demos and deep dives—and be among the first to hear major product announcements.
+
+Register now to:
+
+-Learn to create a comprehensive, automated map of all your data.
+-See how Azure Purview works with Azure Synapse Analytics, Power BI, and the rest of your data estate to deliver timely, reliable insights.
+-Watch in-depth demos of product features including Azure Purview Data Map and Data Catalog.
+-Ask Azure experts your data governance questions in the live Q and A.</description>
+</event>
 <event category="Community">
 <title lang="en">Data Saturday #10 Sofia</title>
 <url>https://datasaturdays.com/2021-09-11-datasaturday0011/</url>
