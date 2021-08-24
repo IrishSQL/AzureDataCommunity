@@ -107,6 +107,14 @@ This time we’re also having expert panels between sessions discussing topics, 
 <dateEnd>09-Oct-2021</dateEnd>
 <description>Data Saturday #10 Sofia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more. We are planning event to be a hybrid event.</description>
 </event>
+<event category="Community"><title lang="en">dataMinds Connect</title>
+<url>https://datamindsconnect.be/</url>
+<dateStart>11-Oct-2021</dateStart>
+<dateEnd>12-Oct-2021</dateEnd>
+<description>dataMinds Connect is a 2 day in-person event in the wonderful city of Mechelen, Belgium. It’s an IT related event with a specific focus on the Microsoft Data and AI Platform, including sessions tailored for personal and professional growth.
+
+Go ahead and clearly mark Monday October 11th and Tuesday October 12th 2021 in your schedule, as these will be 2 days you don’t want to miss!</description>
+</event>
 <event category="Community"><title lang="en">DBCC International 2021</title>
 <url>https://sessionize.com/dbcc-international-2021/</url>
 <dateStart>15-Oct-2021</dateStart>
