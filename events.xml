@@ -59,19 +59,6 @@ Tuklasin natin ang Azure!
 <description>SQL Friday is a weekly online event, happening at noon Central European Time every Friday. One one-hour session is presented in a Microsoft Teams meeting for a live, online audience, then recorded and later published to Youtube. 
 The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
 </event>
- <event category="Community"><title lang="en">Beginner Data Science Day</title>
-<url>https://www.meetup.com/data-platform-wit/events/279999431</url>
-<dateStart>20-Aug-2021</dateStart>
-<dateEnd>20-Aug-2021</dateEnd>
-<description>We are Data Platform WIT (women-in-tech) group and this is our next day long event featuring women speakers on beginner level data science topics. Our call for speakers is still open. We close CFS 8th August and meetup registration for attendance opens soon after.</description>
-</event>
-<event category="Community">
-<title lang="en">Data Saturday #15 Plovdiv</title>
-<url>https://datasaturdays.com/2021-08-28-datasaturday0015/</url>
-<dateStart>28-Aug-2021</dateStart>
-<dateEnd>28-Aug-2021</dateEnd>
-<description>Data Saturday #15 Plovdiv is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud. </description>
-</event>
 <event category="Community">
 <title lang="en">Data Platform Virtual Summit 2021</title>
 <url>https://dataplatformgeeks.com/dps2021/</url>
@@ -100,7 +87,7 @@ This time we’re also having expert panels between sessions discussing topics, 
 <dateEnd>29-Sept-2021</dateEnd>
 <description>Future Data Driven is a marquee, online event focusing on the comprehensive Microsoft Data Platform. Our mission is to inform and update attendees with Data and AI, DevOps and DataOps, PowerBI and Visualization, Integration and Automation and cloud infrastructure. We are excited to welcome you to participate at our free first ever Future Data Driven online event.</description>
 </event>
- <event category="Community"><title lang="en">Azure data governance: Maximize the Value of Your Data in the Cloud</title>
+<event category="Microsoft"><title lang="en">Azure data governance: Maximize the Value of Your Data in the Cloud</title>
 <url>https://azuredatagovernance.eventcore.com/auth/login?ocid=AID3037774_QSG_542286</url>
 <dateStart>28-Sept-2021</dateStart>
 <dateEnd>28-Sept-2021</dateEnd>
