@@ -42,14 +42,7 @@ The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in 
 <dateEnd>21-Sept-2021</dateEnd>
 <description>DPS 2021 virtual conference will cover all the time zones. With 20+ Training Classes, 150+ Breakout Sessions and 100+ World’s Best Educators – DPS 2021 is a focused learning event on Microsoft Azure Data, Analytics - Artificial Intelligence. Attend LIVE and get the recordings (12 months streaming access).</description>
 </event>
-<event category="Community">
-<title lang="en">Data Saturday #11 Croatia</title>
-<url>https://datasaturdays.com/2021-09-11-datasaturday0011/</url>
-<dateStart>11-Sept-2021</dateStart>
-<dateEnd>11-Sept-2021</dateEnd>
-<description>Data Saturday #11 Croatia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</description>
-</event>
- <event category="Community"><title lang="en">Data Platform Discovery Day</title>
+<event category="Community"><title lang="en">Data Platform Discovery Day</title>
 <url>https://dataplatformdiscoveryday.com/</url>
 <dateStart>21-Sept-2021</dateStart>
 <dateEnd>21-Sept-2021</dateEnd>
