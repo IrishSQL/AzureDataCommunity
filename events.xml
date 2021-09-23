@@ -35,22 +35,7 @@ Our goal is to build a free content library that’s available to everyone to he
 <description>SQL Friday is a weekly online event, happening at noon Central European Time every Friday. One one-hour session is presented in a Microsoft Teams meeting for a live, online audience, then recorded and later published to Youtube. 
 The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
 </event>
-<event category="Community">
-<title lang="en">Data Platform Virtual Summit 2021</title>
-<url>https://dataplatformgeeks.com/dps2021/</url>
-<dateStart>08-Sept-2021</dateStart>
-<dateEnd>21-Sept-2021</dateEnd>
-<description>DPS 2021 virtual conference will cover all the time zones. With 20+ Training Classes, 150+ Breakout Sessions and 100+ World’s Best Educators – DPS 2021 is a focused learning event on Microsoft Azure Data, Analytics - Artificial Intelligence. Attend LIVE and get the recordings (12 months streaming access).</description>
-</event>
-<event category="Community"><title lang="en">Data Platform Discovery Day</title>
-<url>https://dataplatformdiscoveryday.com/</url>
-<dateStart>21-Sept-2021</dateStart>
-<dateEnd>21-Sept-2021</dateEnd>
-<description>Focused on helping you take your first steps into the Microsoft Data Platform world and the next steps in your career journey…
-Whether you’re an old hand wanting to learn something to expand your career, or someone who’s just heard about it and wants to learn more, everyone is welcome!
-This time we’re also having expert panels between sessions discussing topics, and taking questions from the audience.</description>
-</event>
- <event category="Community"><title lang="en">Future Data Driven Summit</title>
+<event category="Community"><title lang="en">Future Data Driven Summit</title>
 <url>http://datadrivencommunity.com</url>
 <dateStart>29-Sept-2021</dateStart>
 <dateEnd>29-Sept-2021</dateEnd>
@@ -148,6 +133,12 @@ On Wednesday, October 27 GroupBy Europe will present sessions at timeslots acces
 <dateStart>08-Nov-2021</dateStart>
 <dateEnd>12-Nov-2021</dateEnd>
 <description>PASS Data Community Summit 2021 is the year’s largest gathering of Microsoft data platform professionals. Register today for this free online conference to connect, share, and learn with 1000s of your peers from the global data platform community. Sessions are available in both real-time and on-demand formats, so you can learn at a pace or join Q and A with leading industry experts.</description>
+</event>
+<event category="Community"><title lang="en">November 2021 Global Azure Data and AI Fest (Modern Data Warehousing)</title>
+<url>https://nov2021azuredataandaifest.eventbrite.com</url>
+<dateStart>12-November-2021</dateStart>
+<dateEnd>12-November-2021</dateEnd>
+<description>We are pleased to announce that registration is open for the Fall 2021 Global Azure Data and AI Fest (Modern Data Warehousing), a free/no charge,  1-day virtual conference on Friday, November 12th, 2021, 10:00 AM to 3:00 PM  EDT.  We will send out the online session  link no sooner than 2 days before the event, and also post the online session track information to meetup.com. Since the event is more scaled down due to COVID19 we are virtual only and we are using a single link for the multi-session virtual meeting. </description>
 </event>
 <event category="Community">
 <title lang="en">SQL Server Live!</title>
