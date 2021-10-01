@@ -87,6 +87,15 @@ The Teams links that you need to participate in the conference will be inserted 
 <dateEnd>16-Oct-2021</dateEnd>
 <description>A free virtual event for all data learners and professionals seeking to learn! This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.  It will be held virtually due to pandemic.</description>
 </event>
+ <event category="Community"><title lang="en">The Hybrid Data Cloud Game Show with Portworx and Azure Arc</title>
+<url>https://www.purestorage.com/resources/webinars/game-show-with-portworx-and-azure-arc-2021.html?utm_medium=email&utm_source=microsoft&utm_campaign=aa&utm_region=ams&utm_content=default&utm_creative=default&utm_term=default&utm_keyword=default</url>
+<dateStart>21-Oct-2021</dateStart>
+<dateEnd>21-Oct-2021</dateEnd>
+<description>Who will come away with the Azure Arc cup?
+This light hearted competition between those that developed the product from Microsoft, Jes Schultz and Dhananjay Mahajan or those that wrote the book about it Anthony Nocentino and Ben Weissman. This quiz game show style game will not only determine the winner of the Arc cup challenge but give you an opportunity to learn about hybrid data: Azure Arc-enabled data services, containers, Portworxs and many more nuggets of knowledge.
+
+You will not want to miss this fun session of learning!</description>
+</event>
 <event category="Community">
 <title lang="en">New Stars of Data</title>
 <url>https://www.newstarsofdata.com</url>
