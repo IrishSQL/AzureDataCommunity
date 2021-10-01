@@ -35,28 +35,6 @@ Our goal is to build a free content library that’s available to everyone to he
 <description>SQL Friday is a weekly online event, happening at noon Central European Time every Friday. One one-hour session is presented in a Microsoft Teams meeting for a live, online audience, then recorded and later published to Youtube. 
 The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
 </event>
-<event category="Community"><title lang="en">Future Data Driven Summit</title>
-<url>http://datadrivencommunity.com</url>
-<dateStart>29-Sept-2021</dateStart>
-<dateEnd>29-Sept-2021</dateEnd>
-<description>Future Data Driven is a marquee, online event focusing on the comprehensive Microsoft Data Platform. Our mission is to inform and update attendees with Data and AI, DevOps and DataOps, PowerBI and Visualization, Integration and Automation and cloud infrastructure. We are excited to welcome you to participate at our free first ever Future Data Driven online event.</description>
-</event>
-<event category="Microsoft"><title lang="en">Azure data governance: Maximize the Value of Your Data in the Cloud</title>
-<url>https://azuredatagovernance.eventcore.com/auth/login?ocid=AID3037774_QSG_542286</url>
-<dateStart>28-Sept-2021</dateStart>
-<dateEnd>28-Sept-2021</dateEnd>
-<description>Achieve unified data governance with Azure Purview
-Learn to unify and simplify your data management at this free digital event.
-
-Get a holistic, up-to-date map of all your on-premises, multicloud, and software as a service (SaaS) data with Azure Purview, a unified data governance solution. Join Microsoft Corporate Vice President Rohan Kumar at this free digital event for demos and deep dives—and be among the first to hear major product announcements.
-
-Register now to:
-
--Learn to create a comprehensive, automated map of all your data.
--See how Azure Purview works with Azure Synapse Analytics, Power BI, and the rest of your data estate to deliver timely, reliable insights.
--Watch in-depth demos of product features including Azure Purview Data Map and Data Catalog.
--Ask Azure experts your data governance questions in the live Q and A.</description>
-</event>
 <event category="Community">
 <title lang="en">Data Saturday #10 Sofia</title>
 <url>https://datasaturdays.com/2021-09-11-datasaturday0011/</url>
@@ -89,8 +67,8 @@ The Teams links that you need to participate in the conference will be inserted 
 </event>
 <event category="Community"><title lang="en">The Hybrid Data Cloud Game Show with Portworx and Azure Arc</title>
 <url> https://bit.ly/3AZUSCr</url> 
-<dateStart>21-October-2021</dateStart>
-<dateEnd>21-October-2021</dateEnd>
+<dateStart>21-Oct-2021</dateStart>
+<dateEnd>21-Oct-2021</dateEnd>
 <description>Who will come away with the Azure Arc cup?
 This light hearted competition between those that developed the product from Microsoft, Jes Schultz and Dhananjay Mahajan or those that wrote the book about it Anthony Nocentino and Ben Weissman. This quiz game show style game will not only determine the winner of the Arc cup challenge but give you an opportunity to learn about hybrid data: Azure Arc-enabled data services, containers, Portworx and many more nuggets of knowledge.
 
