@@ -134,6 +134,12 @@ On Wednesday, October 27 GroupBy Europe will present sessions at timeslots acces
 <dateEnd>19-Nov-2021</dateEnd>
 <description>SQL Server Live!: Providing content for data professionals to do more with their Microsoft data platform investment. Sessions will cover performance tuning, security, reporting, data integration, and modernizing the SQL Server infrastructure.</description>
 </event>
+ <event category="Community"><title lang="en">Power BI Fest 2021</title>
+<url>https://powerbifest.com/</url>
+<dateStart>20-November-2021</dateStart>
+<dateEnd>20-November-2021</dateEnd>
+<description>The Power BI Fest is a Free Full Day Virtual Conference bringing together the most amazing group of speakers from around the world along with technical and business users in a Day where Everyone can Learn and Celebrate the Power BI community worldwide.</description>
+</event>
 <event category="Community">
 <title lang="en">SQL Server and AzureSQL Conference - Las Vegas </title>
 <url>https://www.devintersection.com/#!/?track=sql</url>
