@@ -154,7 +154,13 @@ On Wednesday, October 27 GroupBy Europe will present sessions at timeslots acces
 <description>DataMinutes is the fastest event in the Microsoft Data Platform space yet!
 The whole event will run with 10 minute lightning talks only.
 That’s 10 minutes per session with no live Q and A. Q and A will be handled through our website afterwards where we will also be posting recordings of each session.</description>
-</event>"
+</event>
+<event category="Community"><title lang="en">Data Saturday Stockholm 2022</title>
+<url>https://datasatsto.se/</url>
+<dateStart>21-May-2022</dateStart>
+<dateEnd>21-May-2022</dateEnd>
+<description>Attend this free, one-day conference in Stockholm to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We’ll offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.</description>
+</event>
 <event category="Community">
 <title lang="en">DataGrillen 2022</title>
 <url>http://www.DataGrillen.com</url>
