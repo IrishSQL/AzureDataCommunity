@@ -35,36 +35,6 @@ Our goal is to build a free content library that’s available to everyone to he
 <description>SQL Friday is a weekly online event, happening at noon Central European Time every Friday. One one-hour session is presented in a Microsoft Teams meeting for a live, online audience, then recorded and later published to Youtube. 
 The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
 </event>
-<event category="Community">
-<title lang="en">Data Saturday #10 Sofia</title>
-<url>https://datasaturdays.com/2021-09-11-datasaturday0011/</url>
-<dateStart>09-Oct-2021</dateStart>
-<dateEnd>09-Oct-2021</dateEnd>
-<description>Data Saturday #10 Sofia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more. We are planning event to be a hybrid event.</description>
-</event>
-<event category="Community"><title lang="en">dataMinds Connect</title>
-<url>https://datamindsconnect.be/</url>
-<dateStart>11-Oct-2021</dateStart>
-<dateEnd>12-Oct-2021</dateEnd>
-<description>dataMinds Connect is a 2 day in-person event in the wonderful city of Mechelen, Belgium. It’s an IT related event with a specific focus on the Microsoft Data and AI Platform, including sessions tailored for personal and professional growth.
-
-Go ahead and clearly mark Monday October 11th and Tuesday October 12th 2021 in your schedule, as these will be 2 days you don’t want to miss!</description>
-</event>
-<event category="Community"><title lang="en">DBCC International 2021</title>
-<url>https://sessionize.com/dbcc-international-2021/</url>
-<dateStart>15-Oct-2021</dateStart>
-<dateEnd>15-Oct-2021</dateEnd>
-<description>After the success of the Data Blaster Community Conference (DBCC) in June and both DBCC events in 2020, we will be organizing DBCC International this year again.
-On Friday October 15th, 2021 the time has come to continue the virtual conference format on an international level. In three parallel tracks, 21 short lectures are planned for you, which represent many topics from the Data Platform in a varied format and provide exciting content for both beginners and advanced participants.
-The Teams links that you need to participate in the conference will be inserted on this page as soon as the schedule has been set. By the way, you don’t have to register, anyone who clicks on the corresponding team link can simply participate.</description>
-</event>
- <event category="Community">
-<title lang="en">Data Saturday #13 Minnesota</title>
-<url>https://datasaturdays.com/2021-10-16-datasaturday0013/</url>
-<dateStart>16-Oct-2021</dateStart>
-<dateEnd>16-Oct-2021</dateEnd>
-<description>A free virtual event for all data learners and professionals seeking to learn! This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.  It will be held virtually due to pandemic.</description>
-</event>
 <event category="Community"><title lang="en">The Hybrid Data Cloud Game Show with Portworx and Azure Arc</title>
 <url> https://bit.ly/3AZUSCr</url> 
 <dateStart>21-Oct-2021</dateStart>
