@@ -36,32 +36,6 @@ Our goal is to build a free content library that’s available to everyone to he
 The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
 </event>
 <event category="Community">
-<title lang="en">PASS Summit 2021</title>
-<url>https://passdatacommunitysummit.com/</url>
-<dateStart>08-Nov-2021</dateStart>
-<dateEnd>12-Nov-2021</dateEnd>
-<description>PASS Data Community Summit 2021 is the year’s largest gathering of Microsoft data platform professionals. Register today for this free online conference to connect, share, and learn with 1000s of your peers from the global data platform community. Sessions are available in both real-time and on-demand formats, so you can learn at a pace or join Q and A with leading industry experts.</description>
-</event>
-<event category="Community"><title lang="en">November 2021 Global Azure Data and AI Fest (Modern Data Warehousing)</title>
-<url>https://nov2021azuredataandaifest.eventbrite.com</url>
-<dateStart>12-November-2021</dateStart>
-<dateEnd>12-November-2021</dateEnd>
-<description>We are pleased to announce that registration is open for the Fall 2021 Global Azure Data and AI Fest (Modern Data Warehousing), a free/no charge,  1-day virtual conference on Friday, November 12th, 2021, 10:00 AM to 3:00 PM  EDT.  We will send out the online session  link no sooner than 2 days before the event, and also post the online session track information to meetup.com. Since the event is more scaled down due to COVID19 we are virtual only and we are using a single link for the multi-session virtual meeting. </description>
-</event>
-<event category="Community">
-<title lang="en">SQL Server Live!</title>
-<url>https://live360events.com/home.aspx</url>
-<dateStart>15-Nov-2021</dateStart>
-<dateEnd>19-Nov-2021</dateEnd>
-<description>SQL Server Live!: Providing content for data professionals to do more with their Microsoft data platform investment. Sessions will cover performance tuning, security, reporting, data integration, and modernizing the SQL Server infrastructure.</description>
-</event>
- <event category="Community"><title lang="en">Power BI Fest 2021</title>
-<url>https://powerbifest.com/</url>
-<dateStart>20-November-2021</dateStart>
-<dateEnd>20-November-2021</dateEnd>
-<description>The Power BI Fest is a Free Full Day Virtual Conference bringing together the most amazing group of speakers from around the world along with technical and business users in a Day where Everyone can Learn and Celebrate the Power BI community worldwide.</description>
-</event>
-<event category="Community">
 <title lang="en">SQL Server and AzureSQL Conference - Las Vegas </title>
 <url>https://www.devintersection.com/#!/?track=sql</url>
 <dateStart>7-Dec-2021</dateStart>
@@ -76,6 +50,17 @@ The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in 
 The whole event will run with 10 minute lightning talks only.
 That’s 10 minutes per session with no live Q and A. Q and A will be handled through our website afterwards where we will also be posting recordings of each session.</description>
 </event>
+ <event category="Community">
+<title lang="en">Data Toboggan </title>
+<url>https://https://www.meetup.com/data-toboggan/events/282340039/</url>
+<dateStart>29-Jan-2022</dateStart>
+<dateEnd>29-Jan-2022</dateEnd>
+<description>"Join us for our THIRD all-day event specializing in Azure Synapse Analytics !
+Azure Synapse Analytics is a practically limitless analytics service that brings together data integration, enterprise data warehousing and big data analytics. Let's spend a day exploring and showcasing these capabilities.
+It is this analytical power that will help enable any organisation to transform from being reactive into being truly proactive, generating actionable insights that enable both business flow and timely decision-support."
+</description>
+</event>
+ 
 <event category="Community"><title lang="en">Data Saturday Stockholm 2022</title>
 <url>https://datasatsto.se/</url>
 <dateStart>21-May-2022</dateStart>
