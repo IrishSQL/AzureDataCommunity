@@ -69,6 +69,16 @@ It is this analytical power that will help enable any organisation to transform 
 Join us in-person or virtually, the choice is yours. We have two days of full-day training sessions and three days of general sessions, and as always the Saturday is free to attend.
 Registration and more information coming soon. Sign up to be notified of updates</description>
 </event>
+ <event category="Community"><title lang="en">Citus Con: An Event for Postgres</title>
+<url>https://www.citusdata.com/cituscon/2022/</url>
+<dateStart>12-April-2022</dateStart>
+<dateEnd>12-April-2022</dateEnd>
+<description>Citus Con: An Event for Postgres is a free and virtual developer event happening April 12-13, 2022 — organized by the Postgres team at Microsoft. 
+ There will be livestream talks in 3 geographies, plus on-demand talks too—from Citus open- source users, Azure Database for PostgreSQL customers, and experts in Postgres and Citus. 
+ Talks are 25 minutes long and in English.  
+ 
+Check out the #CitusCon Call for Speakers. (Hurry, the CFP closes February 6!) </description>
+</event>"
 <event category="Community"><title lang="en">Data Saturday Stockholm 2022</title>
 <url>https://datasatsto.se/</url>
 <dateStart>21-May-2022</dateStart>
