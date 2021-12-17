@@ -9,8 +9,8 @@
 <event category="Microsoft">
 <title lang="en">Microsoft Ignite</title>
 <url>https://myignite.microsoft.com/home</url>
-<dateStart>02-Nov-2021</dateStart>
-<dateEnd>04-Nov-2021</dateEnd>
+<dateStart>TBD 2022</dateStart>
+<dateEnd>TBD 2022</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
 <event category="Community"><title lang="en">New Speaker Library - Call for Sessions</title>
@@ -27,22 +27,7 @@
 - or how to pre-record a session.
 Our goal is to build a free content library that’s available to everyone to help them improve their sessions – no matter if it’s their first or 100th, even though we think new speakers will benefit the most.</description>
 </event>
-<event category="Community">
-<title lang="en">SQL Friday Autumn 2021</title>
-<url>https://sqlfriday.net</url>
-<dateStart>20-Aug-2021</dateStart>
-<dateEnd>17-Dec-2021</dateEnd>
-<description>SQL Friday is a weekly online event, happening at noon Central European Time every Friday. One one-hour session is presented in a Microsoft Teams meeting for a live, online audience, then recorded and later published to Youtube. 
-The topic for the autumn 2021 season of Sql Friday is Sql Server. SQL Server in containers, Sql Server in the cloud, Sql Server on-premise, T-Sql fundamentals, advanced T-Sql, performance tuning, engine internals, HA/DR overview etc.</description>
-</event>
-<event category="Community">
-<title lang="en">SQL Server and AzureSQL Conference - Las Vegas </title>
-<url>https://www.devintersection.com/#!/?track=sql</url>
-<dateStart>7-Dec-2021</dateStart>
-<dateEnd>9-Dec-2021</dateEnd>
-<description>THE INTERSECTION OF CO-LOCATED TECHNOLOGY EVENTS: Microsoft SQL Server Azure SQL Conference and Azure + AI Conference</description>
-</event>
- <event category="Community"><title lang="en">DataMinutes #2</title>
+<event category="Community"><title lang="en">DataMinutes #2</title>
 <url>http://dataminutes.io</url>
 <dateStart>21-Jan-2022</dateStart>
 <dateEnd>21-Jan-2022</dateEnd>
@@ -74,10 +59,21 @@ Registration and more information coming soon. Sign up to be notified of updates
 <dateStart>12-April-2022</dateStart>
 <dateEnd>12-April-2022</dateEnd>
 <description>Citus Con: An Event for Postgres is a free and virtual developer event happening April 12-13, 2022 — organized by the Postgres team at Microsoft. 
- There will be livestream talks in 3 geographies, plus on-demand talks too—from Citus open- source users, Azure Database for PostgreSQL customers, and experts in Postgres and Citus. 
- Talks are 25 minutes long and in English.  
+There will be livestream talks in 3 geographies, plus on-demand talks too—from Citus open- source users, Azure Database for PostgreSQL customers, and experts in Postgres and Citus. 
+Talks are 25 minutes long and in English.  
  
 Check out the #CitusCon Call for Speakers. (Hurry, the CFP closes February 6!) </description>
+</event>
+<event category="Community">
+<title lang="en">SQL Server and AzureSQL Conference - Las Vegas </title>
+<url>https://www.devintersection.com/#!/?track=sql</url>
+<dateStart>Apr-2022</dateStart>
+<dateEnd>Apr 2022</dateEnd>
+<description>THE INTERSECTION OF CO-LOCATED TECHNOLOGY EVENTS: Microsoft SQL Server Azure SQL Conference and Azure + AI Conference
+Azure Data and SQL Community are coming together in Las Vegas, April 2022. Join Microsoft Executives and members of the Azure Data product group for sessions and keynotes where they share new releases and where the future will take the tech industry.
+
+This is the largest in-person event in two years featuring 200+ in depth sessions delivered by your favorite Microsoft engineers and industry experts in addition to 20+ full day workshops.
+</description>
 </event>
 <event category="Community"><title lang="en">Data Saturday Stockholm 2022</title>
 <url>https://datasatsto.se/</url>
