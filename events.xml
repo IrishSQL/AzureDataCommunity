@@ -13,20 +13,6 @@
 <dateEnd>TBD 2022</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
-<event category="Community"><title lang="en">New Speaker Library - Call for Sessions</title>
-<url>https://sessionize.com/new-stars-speaker-improvement</url>
-<dateStart>11-Aug-2021</dateStart>
-<dateEnd>31-Dec-2021</dateEnd>
-<description>We're looking for seasoned speakers, willing to share their experience and knowledge to help new and old stars to build better presentations. Potential topics could include but are not limited to:
-- creating an abstract
-- building a slide deck
-- designing session flows
-- turning a slide deck into a presentation
-- accessible presentations
-- inclusive language
-- or how to pre-record a session.
-Our goal is to build a free content library that’s available to everyone to help them improve their sessions – no matter if it’s their first or 100th, even though we think new speakers will benefit the most.</description>
-</event>
 <event category="Community"><title lang="en">DataMinutes #2</title>
 <url>http://dataminutes.io</url>
 <dateStart>21-Jan-2022</dateStart>
@@ -47,14 +33,14 @@ It is this analytical power that will help enable any organisation to transform 
 </event>
 <event category="Community"><title lang="en">SQL SATURDAY -LIMA 2022</title>
 <url>https://www.meetup.com/es-ES/cloudexpertsc/events/282775038/</url>
-<dateStart>29-January-2022</dateStart>
-<dateEnd>29-January-2022</dateEnd>
+<dateStart>29-Jan-2022</dateStart>
+<dateEnd>29-Jan-2022</dateEnd>
 <description>Evento enfocado a Plataforma de Datos, Inteligencia de Negocios y Power Platform. Se dará sesiones de las novedades de SQL Server 2022</description>
 </event>
  <event category="Community"><title lang="en">BI LATAM Summit 2022</title>
 <url>https://www.bilatam.org/bilatamsummit2022</url>
-<dateStart>19-February-2022</dateStart>
-<dateEnd>19-February-2022</dateEnd>
+<dateStart>19-Feb-2022</dateStart>
+<dateEnd>19-Feb-2022</dateEnd>
 <description>BI LATAM Summit es la evento online más grande del año de profesionales de Ciencia de Datos, Inteligencia de Negocios y Plataformas de Datos en español. Comparte con nosotros en este evento en línea y gratuito.</description>
 </event>
 <event category="Community">
