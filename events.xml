@@ -51,6 +51,12 @@ It is this analytical power that will help enable any organisation to transform 
 <dateEnd>29-January-2022</dateEnd>
 <description>Evento enfocado a Plataforma de Datos, Inteligencia de Negocios y Power Platform. Se dará sesiones de las novedades de SQL Server 2022</description>
 </event>
+ <event category="Community"><title lang="en">BI LATAM Summit 2022</title>
+<url>https://www.bilatam.org/bilatamsummit2022</url>
+<dateStart>19-February-2022</dateStart>
+<dateEnd>19-February-2022</dateEnd>
+<description>BI LATAM Summit es la evento online más grande del año de profesionales de Ciencia de Datos, Inteligencia de Negocios y Plataformas de Datos en español. Comparte con nosotros en este evento en línea y gratuito.</description>
+</event>
 <event category="Community">
  <title lang="en">SQLBits</title>
 <url>www.sqlbits.com</url>
