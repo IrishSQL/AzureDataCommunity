@@ -13,17 +13,9 @@
 <dateEnd>TBD 2022</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
-<event category="Community"><title lang="en">DataMinutes #2</title>
-<url>http://dataminutes.io</url>
-<dateStart>21-Jan-2022</dateStart>
-<dateEnd>21-Jan-2022</dateEnd>
-<description>DataMinutes is the fastest event in the Microsoft Data Platform space yet!
-The whole event will run with 10 minute lightning talks only.
-That’s 10 minutes per session with no live Q and A. Q and A will be handled through our website afterwards where we will also be posting recordings of each session.</description>
-</event>
- <event category="Community">
+<event category="Community">
 <title lang="en">Data Toboggan </title>
-<url>https://https://www.meetup.com/data-toboggan/events/282340039/</url>
+<url>https://www.meetup.com/data-toboggan/events/282340039/</url>
 <dateStart>29-Jan-2022</dateStart>
 <dateEnd>29-Jan-2022</dateEnd>
 <description>"Join us for our THIRD all-day event specializing in Azure Synapse Analytics !
