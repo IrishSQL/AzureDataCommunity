@@ -13,22 +13,6 @@
 <dateEnd>TBD 2022</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
-<event category="Community">
-<title lang="en">Data Toboggan </title>
-<url>https://www.meetup.com/data-toboggan/events/282340039/</url>
-<dateStart>29-Jan-2022</dateStart>
-<dateEnd>29-Jan-2022</dateEnd>
-<description>"Join us for our THIRD all-day event specializing in Azure Synapse Analytics !
-Azure Synapse Analytics is a practically limitless analytics service that brings together data integration, enterprise data warehousing and big data analytics. Let's spend a day exploring and showcasing these capabilities.
-It is this analytical power that will help enable any organisation to transform from being reactive into being truly proactive, generating actionable insights that enable both business flow and timely decision-support."
-</description>
-</event>
-<event category="Community"><title lang="en">SQL SATURDAY -LIMA 2022</title>
-<url>https://www.meetup.com/es-ES/cloudexpertsc/events/282775038/</url>
-<dateStart>29-Jan-2022</dateStart>
-<dateEnd>29-Jan-2022</dateEnd>
-<description>Evento enfocado a Plataforma de Datos, Inteligencia de Negocios y Power Platform. Se dará sesiones de las novedades de SQL Server 2022</description>
-</event>
  <event category="Community"><title lang="en">BI LATAM Summit 2022</title>
 <url>https://www.bilatam.org/bilatamsummit2022</url>
 <dateStart>19-Feb-2022</dateStart>
@@ -57,13 +41,19 @@ Check out the #CitusCon Call for Speakers. (Hurry, the CFP closes February 6!) <
 <event category="Community">
 <title lang="en">SQL Server and AzureSQL Conference - Las Vegas </title>
 <url>https://www.devintersection.com/#!/?track=sql</url>
-<dateStart>Apr-2022</dateStart>
-<dateEnd>Apr 2022</dateEnd>
+<dateStart>05-Apr-2022</dateStart>
+<dateEnd>07-Apr-2022</dateEnd>
 <description>THE INTERSECTION OF CO-LOCATED TECHNOLOGY EVENTS: Microsoft SQL Server Azure SQL Conference and Azure + AI Conference
 Azure Data and SQL Community are coming together in Las Vegas, April 2022. Join Microsoft Executives and members of the Azure Data product group for sessions and keynotes where they share new releases and where the future will take the tech industry.
 
 This is the largest in-person event in two years featuring 200+ in depth sessions delivered by your favorite Microsoft engineers and industry experts in addition to 20+ full day workshops.
 </description>
+</event>
+<event category="Community"><title lang="en">Azure Cosmos DB Conf</title>
+<url>https://gotcosmos.com/conf</url>
+<dateStart>19-April-2022</dateStart>
+<dateEnd>19-April-2022</dateEnd>
+<description>Azure Cosmos DB Conf returns on April 19 - 20, 2022. It is a free virtual developer event organized in collaboration with the Azure Cosmos DB community, with sessions delivered by community members and the Microsoft team.  The event will be streamed in segments across multiple timezones.</description>
 </event>
 <event category="Community"><title lang="en">Data Saturday Stockholm 2022</title>
 <url>https://datasatsto.se/</url>
