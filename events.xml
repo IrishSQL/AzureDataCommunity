@@ -75,4 +75,12 @@ The most flavoursome Data Platform event on the planet</description>
 <description>Discover what professionals around the globe are doing to solve real-world problems!
 Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. Share your code and show how you are solving problems so that others can learn from you. You can also learn from those that have a different approach to the same problem. Often, people team up after events to join forces to tackle common problems to build fantastic solutions.</description>
 </event>
+ <event category="Community"><title lang="en">DATA:Scotland</title>
+<url>https://www.datascotland.org/</url>
+<dateStart>01-September-2022</dateStart>
+<dateEnd>01-September-2022</dateEnd>
+<description>DATA:Scotland is an annual, free training conference, focused on all things DATA. Founded in 2017, we have grown from strength to strength. We are organised BY community volunteers FOR the data community.
+ 
+DATA:Scotland is Scotland's data community event. Bringing experts and attendees together, this free to attend conference is about sharing knowledge and insight through hour-long talks which discuss new data technologies and techniques, to help to solve problems and propose solutions. Sessions cater for all skill levels from introductory talks to deep-dive presentations. At DATA:Scotland you can engage with experts and network with peers in the data community.</description>
+</event>
 </events>
