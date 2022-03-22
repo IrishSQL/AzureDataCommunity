@@ -83,4 +83,10 @@ Beyond PowerShell, today's engineers need to understand DevOps and increasingly 
  
 DATA Scotland is Scotland's data community event. Bringing experts and attendees together, this free to attend conference is about sharing knowledge and insight through hour-long talks which discuss new data technologies and techniques, to help to solve problems and propose solutions. Sessions cater for all skill levels from introductory talks to deep-dive presentations. At DATA Scotland you can engage with experts and network with peers in the data community.</description>
 </event>
+<event category="Community"><title lang="en">PASS Data Community Summit</title>
+<url>https://passdatacommunitysummit.com</url>
+<dateStart>15-November-2022</dateStart>
+<dateEnd>15-November-2022</dateEnd>
+<description>Join the world’s largest gathering of data professionals at this year’s hybrid PASS Data Community Summit. Whether you're attending online or in-person, this is your opportunity to connect, share, and learn with thousands of your peers and experts from the global data platform community.</description>
+</event>
 </events>
