@@ -47,6 +47,15 @@ Azure Data and SQL Community are coming together in Las Vegas, April 2022. Join 
 This is the largest in-person event in two years featuring 200+ in depth sessions delivered by your favorite Microsoft engineers and industry experts in addition to 20+ full day workshops.
 </description>
 </event>
+ <event category="Community"><title lang="en">Data Platform Discovery Day</title>
+<url>https://dataplatformdiscoveryday.com/</url>
+<dateStart>13-April-2022</dateStart>
+<dateEnd>13-April-2022</dateEnd>
+<description>We are running on the 13th April 2022, we’ve got some more great sessions and panels for you!
+Focused on helping you take your first steps into the Microsoft Data Platform world and the next steps in your career journey…
+Whether you’re an old hand wanting to learn something to expand your career, or someone who’s just heard about it and wants to learn more, everyone is welcome!
+This time we’re also going be having expert panels between sessions discussing topics, and taking questions from the audience.</description>
+</event>
 <event category="Community"><title lang="en">Azure Cosmos DB Conf</title>
 <url>https://gotcosmos.com/conf</url>
 <dateStart>19-April-2022</dateStart>
