@@ -60,10 +60,16 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 <dateEnd>10-Sept-2022</dateEnd>
 <description>A fun online conference organized out of Germany, Austria and Switzerland (DACH). It is free, online, interactive and fun data community conference for Microsoft's Data Stack.</description>
 </event>
+ <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
+<url>https://live360events.com/Home.aspx</url>
+<dateStart>13-November-2022</dateStart>
+<dateEnd>18-November-2022</dateEnd>
+<description>Live! 360 brings the IT, Developer, and Data communities together for six days of training, knowledge sharing, and networking in Sunny Orlando. With unlimited access to Live! 360’s five co-located events, you and your team will get the training you need to keep you and your business competitive and future-ready. Live! 360 = the Ultimate Education Destination!</description>
+</event>
 <event category="Community"><title lang="en">PASS Data Community Summit</title>
 <url>https://passdatacommunitysummit.com</url>
 <dateStart>15-Nov-2022</dateStart>
-<dateEnd>15-Nov-2022</dateEnd>
+<dateEnd>18-Nov-2022</dateEnd>
 <description>Join the world’s largest gathering of data professionals at this year’s hybrid PASS Data Community Summit. Whether you're attending online or in-person, this is your opportunity to connect, share, and learn with thousands of your peers and experts from the global data platform community.</description>
 </event>
 </events>
