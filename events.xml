@@ -20,27 +20,10 @@
 <description>BI LATAM Summit es la evento online más grande del año de profesionales de Ciencia de Datos, Inteligencia de Negocios y Plataformas de Datos en español. Comparte con nosotros en este evento en línea y gratuito.</description>
 </event>
 <event category="Community">
- <title lang="en">SQLBits</title>
-<url>www.sqlbits.com</url>
-<dateStart>08-March-2022</dateStart>
-<dateEnd>12-March-2022</dateEnd>
-<description>SQLBits is back in London for 2022 on the 8 - 12 March at ExCel, with the new five day format, for a marathon of top quality training from global specialists. At a time of change if you want to learn about the new paradigms in data platforms, SQLBits is the place.
-Join us in-person or virtually, the choice is yours. We have two days of full-day training sessions and three days of general sessions, and as always the Saturday is free to attend.
-Registration and more information coming soon. Sign up to be notified of updates</description>
-</event>
- <event category="Community"><title lang="en">Citus Con: An Event for Postgres</title>
-<url>https://www.citusdata.com/cituscon/2022/</url>
-<dateStart>12-April-2022</dateStart>
-<dateEnd>12-April-2022</dateEnd>
-<description>Citus Con: An Event for Postgres is a free and virtual developer event happening April 12-13, 2022 — organized by the Postgres team at Microsoft. 
-There will be livestream talks in 3 geographies, plus on-demand talks too—from Citus open- source users, Azure Database for PostgreSQL customers, and experts in Postgres and Citus. 
-Schedule is now live! </description>
-</event>
-<event category="Community">
 <title lang="en">SQL Server and AzureSQL Conference - Las Vegas </title>
 <url>https://www.devintersection.com/#!/?track=sql</url>
-<dateStart>05-Apr-2022</dateStart>
-<dateEnd>07-Apr-2022</dateEnd>
+<dateStart>Fall 2022 TBD</dateStart>
+<dateEnd>Fall 2022 TBD</dateEnd>
 <description>THE INTERSECTION OF CO-LOCATED TECHNOLOGY EVENTS: Microsoft SQL Server Azure SQL Conference and Azure + AI Conference
 Azure Data and SQL Community are coming together in Las Vegas, April 2022. Join Microsoft Executives and members of the Azure Data product group for sessions and keynotes where they share new releases and where the future will take the tech industry.
 
@@ -92,10 +75,16 @@ Beyond PowerShell, today's engineers need to understand DevOps and increasingly 
  
 DATA Scotland is Scotland's data community event. Bringing experts and attendees together, this free to attend conference is about sharing knowledge and insight through hour-long talks which discuss new data technologies and techniques, to help to solve problems and propose solutions. Sessions cater for all skill levels from introductory talks to deep-dive presentations. At DATA Scotland you can engage with experts and network with peers in the data community.</description>
 </event>
+ <event category="Community"><title lang="en">DATA BASH</title>
+<url>https://databash.live/</url>
+<dateStart>10-Sept-2022</dateStart>
+<dateEnd>10-Sept-2022</dateEnd>
+<description>A fun online conference organized out of Germany, Austria and Switzerland (DACH). It is free, online, interactive and fun data community conference for Microsoft's Data Stack.</description>
+</event>
 <event category="Community"><title lang="en">PASS Data Community Summit</title>
 <url>https://passdatacommunitysummit.com</url>
-<dateStart>15-November-2022</dateStart>
-<dateEnd>15-November-2022</dateEnd>
+<dateStart>15-Nov-2022</dateStart>
+<dateEnd>15-Nov-2022</dateEnd>
 <description>Join the world’s largest gathering of data professionals at this year’s hybrid PASS Data Community Summit. Whether you're attending online or in-person, this is your opportunity to connect, share, and learn with thousands of your peers and experts from the global data platform community.</description>
 </event>
 </events>
