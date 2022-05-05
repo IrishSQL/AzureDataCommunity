@@ -24,6 +24,12 @@ Azure Data and SQL Community are coming together in Las Vegas, April 2022. Join 
 This is the largest in-person event in two years featuring 200+ in depth sessions delivered by your favorite Microsoft engineers and industry experts in addition to 20+ full day workshops.
 </description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Jacksonville 2022</title>
+<url>https://sqlsaturday.com/jax</url>
+<dateStart>14-May-2022</dateStart>
+<dateEnd>14-May-2022</dateEnd>
+<description>Jacksonville's 14th Annual SQL Saturday event includes two paid pre-con tracks and one FREE day of training sessions for Microsoft Data Platform professionals and those wanting to grow their skill set in Business Intelligence, Analytics, and SQL Server. </description>
+</event>
 <event category="Community"><title lang="en">Data Saturday Stockholm 2022</title>
 <url>https://datasatsto.se/</url>
 <dateStart>21-May-2022</dateStart>
@@ -46,6 +52,18 @@ The most flavoursome Data Platform event on the planet</description>
 <description>Discover what professionals around the globe are doing to solve real-world problems!
 Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. Share your code and show how you are solving problems so that others can learn from you. You can also learn from those that have a different approach to the same problem. Often, people team up after events to join forces to tackle common problems to build fantastic solutions.</description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday New Jersey 2022</title>
+<url>https://sqlsaturday.com/nj/</url>
+<dateStart>23-July-2022</dateStart>
+<dateEnd>23-July-2022</dateEnd>
+<description>SQL Saturday New Jersey is a one day, free training event for data platform professionals. </description>
+</event>
+ <event category="Community"><title lang="en">SQL Saturday #1026 - Baton Rouge 2022</title>
+<url>https://sqlsaturday.com/BR/</url>
+<dateStart>06-August-2022</dateStart>
+<dateEnd>06-August-2022</dateEnd>
+<description>SQLSaturday is a global event to bring Information Technology speakers and professionals together for a community-driven, community-attended free day of technical training. </description>
+</event>
  <event category="Community"><title lang="en">DATA:Scotland</title>
 <url>https://www.datascotland.org/</url>
 <dateStart>01-September-2022</dateStart>
@@ -60,7 +78,13 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 <dateEnd>10-Sept-2022</dateEnd>
 <description>A fun online conference organized out of Germany, Austria and Switzerland (DACH). It is free, online, interactive and fun data community conference for Microsoft's Data Stack.</description>
 </event>
- <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
+ <event category="Community"><title lang="en">SQL Saturday Nepal 2022 (#1025)</title>
+<url>https://sqlsaturday.com/nepal/</url>
+<dateStart>08-October-2022</dateStart>
+<dateEnd>08-October-2022</dateEnd>
+<description>SQL Saturday Nepal is a one day, free training event for data platform professionals.</description>
+</event>
+  <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
 <url>https://live360events.com/Home.aspx</url>
 <dateStart>13-November-2022</dateStart>
 <dateEnd>18-November-2022</dateEnd>
