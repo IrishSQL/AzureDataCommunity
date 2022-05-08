@@ -52,6 +52,16 @@ The most flavoursome Data Platform event on the planet</description>
 <description>Discover what professionals around the globe are doing to solve real-world problems!
 Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. Share your code and show how you are solving problems so that others can learn from you. You can also learn from those that have a different approach to the same problem. Often, people team up after events to join forces to tackle common problems to build fantastic solutions.</description>
 </event>
+ <event category="Community"><title lang="en">Data Toboggan - Cool Runnings</title>
+<url>https://www.datatoboggan.co.uk/</url>
+<dateStart>09-July-2022</dateStart>
+<dateEnd>09-July-2022</dateEnd>
+<description>Join us for our fourth event, Data Toboggan Cool Runnings 2022, specializing on Azure Synapse Analytics!  To provide that end to end picture of analytics the sessions cover Azure Synapse Analytics and integrated  technologies.
+
+Azure Synapse Analytics is a practically limitless analytics service that brings together data integration, enterprise data warehousing and big data analytics. It is this analytical power that will help enable any organisation to transform from being reactive into being truly proactive, generating actionable insights that enable both business flow and timely decision-support. 
+
+Our next conference is on Saturday 9th July 2022. This is a virtual event which crosses multiple time zones and is free to attend.</description>
+</event>
 <event category="Community"><title lang="en">SQL Saturday New Jersey 2022</title>
 <url>https://sqlsaturday.com/nj/</url>
 <dateStart>23-July-2022</dateStart>
