@@ -24,17 +24,24 @@ Azure Data and SQL Community are coming together in Las Vegas, April 2022. Join 
 This is the largest in-person event in two years featuring 200+ in depth sessions delivered by your favorite Microsoft engineers and industry experts in addition to 20+ full day workshops.
 </description>
 </event>
- <event category="Community"><title lang="en">SQL Saturday Jacksonville 2022</title>
-<url>https://sqlsaturday.com/jax</url>
-<dateStart>14-May-2022</dateStart>
-<dateEnd>14-May-2022</dateEnd>
-<description>Jacksonville's 14th Annual SQL Saturday event includes two paid pre-con tracks and one FREE day of training sessions for Microsoft Data Platform professionals and those wanting to grow their skill set in Business Intelligence, Analytics, and SQL Server. </description>
-</event>
-<event category="Community"><title lang="en">Data Saturday Stockholm 2022</title>
-<url>https://datasatsto.se/</url>
-<dateStart>21-May-2022</dateStart>
-<dateEnd>21-May-2022</dateEnd>
-<description>Attend this free, one-day conference in Stockholm to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We’ll offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.</description>
+<event category="Community"><title lang="en">Azure for All Series 2022 - Dear Azure | Azure INDIA</title>
+<url>https://bit.ly/azureforall-register  </url>
+<dateStart>28-May-2022</dateStart>
+<dateEnd>28-May-2022</dateEnd>
+<description>Title: Data Exploration with Azure Synapse for Cloud Professionals
+
+Saturday, 28 May - 10:00 AM IST to 11:00 AM IST
+
+This is a 2-part series on Azure Synapse for Cloud Professionals. In this 1st session, Wilson will guide you through the best practice of using Azure Synapse for Data Exploration.
+
+This includes:
+•	Overview of Azure Synapse.
+•	How to conduct a data exploration? 
+•	A demo of using Azure Synapse for data exploration:
+  o	Using Serverless Spark pool to analyze and prepare data.
+  o	Using Serverless SQL to transform data to create data insight.
+
+At the end of this session, you will be ready to analyze your data and create your own insights in Azure Synapse.</description>
 </event>
 <event category="Community">
 <title lang="en">DataGrillen 2022</title>
