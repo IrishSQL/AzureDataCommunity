@@ -114,8 +114,7 @@ Data Insight Summit is a conference focused on Microsoft Data Analytics tools an
 <dateEnd>18-Nov-2022</dateEnd>
 <description>Join the world’s largest gathering of data professionals at this year’s hybrid PASS Data Community Summit. Whether you're attending online or in-person, this is your opportunity to connect, share, and learn with thousands of your peers and experts from the global data platform community.</description>
 </event>
-</events>
-<event category="Community"><title lang="en">Difinity</title>
+ <event category="Community"><title lang="en">Difinity</title>
 <url>https://difinity.co.nz/</url>
 <dateStart>28-Nov-2022</dateStart>
 <dateEnd>28-Nov-2022</dateEnd>
@@ -124,3 +123,5 @@ Difinity is the largest Microsoft Data, AI, Power BI, Power Platform and Busines
 
 Difinity Conference been running in New Zealand since 2017, and this would be our 5th year’s anniversary event. We want to make it an special event full of learning, fun, and networking opportunities.</description>
 </event>
+
+</events>
