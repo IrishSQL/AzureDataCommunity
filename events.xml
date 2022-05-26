@@ -95,13 +95,6 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 <dateEnd>10-Sept-2022</dateEnd>
 <description>A fun online conference organized out of Germany, Austria and Switzerland (DACH). It is free, online, interactive and fun data community conference for Microsoft's Data Stack.</description>
 </event>
-<event category="Community"><title lang="en">Data Insight Summit</title>
-<url>https://datainsightsummit.us/</url>
-<dateStart>12-Sept-2022</dateStart>
-<dateEnd>12-Sept-2022</dateEnd>
-<description>Microsoft Data and Insight Conference in person in Chicago
-Data Insight Summit is a conference focused on Microsoft Data Analytics tools and services, such as Power BI, Excel, Synapse, and related technologies. This is an in-person conference in Chicago. Organizers of this conference previously ran some of the most successful events in the Microsoft Data Analytics space, such as the Power BI Summit and Difinity Conference. This is a conference for Data and business analysts, IT Decision Makers, Developers, Business Analysts, BI and Insight Managers, BI Professionals, Architects, Digital and Big Data business leaders, and Consultants. This conference is a three-day event; the first day is a full-day workshop pre-conference followed by two days of conference sessions in five different tracks.</description>
-</event>
 <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
 <url>https://live360events.com/Home.aspx</url>
 <dateStart>13-Nov-2022</dateStart>
