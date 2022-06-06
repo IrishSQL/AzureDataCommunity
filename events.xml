@@ -69,6 +69,13 @@ Azure Synapse Analytics is a practically limitless analytics service that brings
 
 Our next conference is on Saturday 9th July 2022. This is a virtual event which crosses multiple time zones and is free to attend.</description>
 </event>
+<event category="Community"><title lang="en">Analytics Friday Auckland</title>
+<url>https://www.eventbrite.com/e/analytics-friday-auckland-tickets-336056252297</url>
+<dateStart>22-July-2022</dateStart>
+<dateEnd>22-July-2022</dateEnd>
+<description>Analytics Friday is a one-day, Free, in-person conference that will happen on Friday, 22nd July 2022; join us for a day of learning on Microsoft AI, Power BI, and Data Platforms in Auckland. This conference is an opportunity to learn new features and technologies, connect with people in your area and also share your experience with others.
+</description>
+</event>
 <event category="Community"><title lang="en">SQL Saturday New Jersey 2022</title>
 <url>https://sqlsaturday.com/nj/</url>
 <dateStart>23-July-2022</dateStart>
@@ -97,8 +104,8 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 </event>
 <event category="Community"><title lang="en">Data Insight Summit</title>
 <url>https://datainsightsummit.us/</url>
-<dateStart>12-September-2022</dateStart>
-<dateEnd>12-September-2022</dateEnd>
+<dateStart>12-Sept-2022</dateStart>
+<dateEnd>12-Sept-2022</dateEnd>
 <description>Microsoft Data and Insight Conference in person in Chicago
 Data Insight Summit is a conference focused on Microsoft Data Analytics tools and services, such as Power BI, Excel, Synapse, and related technologies. This is an in-person conference in Chicago. Organizers of this conference previously ran some of the most successful events in the Microsoft Data Analytics space, such as the Power BI Summit and Difinity Conference. This is a conference for Data and business analysts, IT Decision Makers, Developers, Business Analysts, BI and Insight Managers, BI Professionals, Architects, Digital and Big Data business leaders, and Consultants. This conference is a three-day event; the first day is a full-day workshop pre-conference followed by two days of conference sessions in five different tracks.</description>
 </event>
