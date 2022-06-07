@@ -109,6 +109,14 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 <description>Microsoft Data and Insight Conference in person in Chicago
 Data Insight Summit is a conference focused on Microsoft Data Analytics tools and services, such as Power BI, Excel, Synapse, and related technologies. This is an in-person conference in Chicago. Organizers of this conference previously ran some of the most successful events in the Microsoft Data Analytics space, such as the Power BI Summit and Difinity Conference. This is a conference for Data and business analysts, IT Decision Makers, Developers, Business Analysts, BI and Insight Managers, BI Professionals, Architects, Digital and Big Data business leaders, and Consultants. This conference is a three-day event; the first day is a full-day workshop pre-conference followed by two days of conference sessions in five different tracks.</description>
 </event>
+ <event category="Community"><title lang="en">New Stars of Data #4</title>
+<url>https://www.newstarsofdata.com/</url>
+<dateStart>07-Oct-2022</dateStart>
+<dateEnd>07-Oct-2022</dateEnd>
+<description>New Stars of Data is an event to help find and promote new speakers in the Microsoft Data Platform arena. It is run by Ben Weissman and William Durkin. Speakers submit their presentation ideas and are assigned to a seasoned speaker, who will mentor the newcomer in all aspects around delivering a presentation.
+
+The event is the natural extension of the *Newcomer Track* from DataGrillen where a single track was dedicated to nurturing new speaker talent. New Stars of Data is an entire event focused only on newcomer speakers.</description>
+</event>
 <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
 <url>https://live360events.com/Home.aspx</url>
 <dateStart>13-Nov-2022</dateStart>
