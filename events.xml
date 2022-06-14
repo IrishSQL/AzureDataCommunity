@@ -14,14 +14,15 @@
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
 <event category="Community">
-<title lang="en">SQL Server and AzureSQL Conference - Las Vegas </title>
-<url>https://www.devintersection.com/#!/?track=sql</url>
-<dateStart>Fall 2022 TBD</dateStart>
-<dateEnd>Fall 2022 TBD</dateEnd>
-<description>THE INTERSECTION OF CO-LOCATED TECHNOLOGY EVENTS: Microsoft SQL Server Azure SQL Conference and Azure + AI Conference
-Azure Data and SQL Community are coming together in Las Vegas, April 2022. Join Microsoft Executives and members of the Azure Data product group for sessions and keynotes where they share new releases and where the future will take the tech industry.
+<title lang="en">Azure Data Conference - Las Vegas </title>
+<url>https://azuredataconf.com/#!/</url>
+<dateStart>Dec 4, 2022</dateStart>
+<dateEnd>Dec 9, 2022</dateEnd>
+<description>Conference Dec. 6th -8th
+Workshops: Dec. 4th, 5th & 9th
+Join your favorite Microsoft leaders, including EVP Scott Guthrie, and CVP Rohan Kumar, as they share their excitement about the future of Microsoft technologies. Their keynotes set the stage for this great learning event. The Microsoft engineers presenting will take a deep dive with you into the many new technology releases, including the latest updates to SQL Server, Azure SQL, and the entire Azure Data Platform.
 
-This is the largest in-person event in two years featuring 200+ in depth sessions delivered by your favorite Microsoft engineers and industry experts in addition to 20+ full day workshops.
+You’ll also have the opportunity to spend time with Microsoft engineers and industry experts you know and trust to present real-world solutions and tips for productivity. Join other leaders from the Azure Data Community to connect, network and grow!
 </description>
 </event>
  <event category="Community"><title lang="en">Azure for All Series 2022 - Dear Azure | Azure INDIA</title>
