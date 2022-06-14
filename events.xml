@@ -13,19 +13,7 @@
 <dateEnd>TBD 2022</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
-<event category="Community">
-<title lang="en">Azure Data Conference - Las Vegas </title>
-<url>https://azuredataconf.com/#!/</url>
-<dateStart>Dec 4, 2022</dateStart>
-<dateEnd>Dec 9, 2022</dateEnd>
-<description>Conference: Dec. 6th -8th
-Workshops: Dec. 4th, 5th, 9th
-Join your favorite Microsoft leaders, including EVP Scott Guthrie, and CVP Rohan Kumar, as they share their excitement about the future of Microsoft technologies. Their keynotes set the stage for this great learning event. The Microsoft engineers presenting will take a deep dive with you into the many new technology releases, including the latest updates to SQL Server, Azure SQL, and the entire Azure Data Platform.
-
-You’ll also have the opportunity to spend time with Microsoft engineers and industry experts you know and trust to present real-world solutions and tips for productivity. Join other leaders from the Azure Data Community to connect, network and grow!
-</description>
-</event>
- <event category="Community"><title lang="en">Azure for All Series 2022 - Dear Azure | Azure INDIA</title>
+<event category="Community"><title lang="en">Azure for All Series 2022 - Dear Azure | Azure INDIA</title>
 <url>https://bit.ly/azureforall-register  </url>
 <dateStart>28-May-2022</dateStart>
 <dateEnd>28-May-2022</dateEnd>
