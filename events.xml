@@ -91,6 +91,12 @@ Our next conference is on Saturday 9th July 2022. This is a virtual event which 
 <dateEnd>06-Aug-2022</dateEnd>
 <description>SQLSaturday is a global event to bring Information Technology speakers and professionals together for a community-driven, community-attended free day of technical training. </description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Los Angeles August 2022</title>
+<url>https://sqlsaturday.com/2022-08-13-sqlsaturday1029/</url>
+<dateStart>13-August-2022</dateStart>
+<dateEnd>13-August-2022</dateEnd>
+<description>data.SQL.Saturday.la is a free training event for professionals who use the Microsoft data platform. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more. </description>
+</event>
  <event category="Community"><title lang="en">DATA:Scotland</title>
 <url>https://www.datascotland.org/</url>
 <dateStart>01-Sept-2022</dateStart>
@@ -130,6 +136,12 @@ We try to elevate those that are usually underrepresented at conferences due to 
 
 We aim to create a safe environment for everyone and welcome seasoned speakers and newcomers alike. Should you require a mentor, we will make sure you will get all the help you’ll need to deliver your session!</description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Orlando 2022 (#1030)</title>
+<url>https://sqlsaturday.com/2022-10-08-sqlsaturday1030/</url>
+<dateStart>08-October-2022</dateStart>
+<dateEnd>08-October-2022</dateEnd>
+<description>SQL Saturday Orlando is a free one day training event for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you! This year we will have five tracks containing five one hour sessions, plus three sponsored sessions during the lunch break.</description>
+</event>
 <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
 <url>https://live360events.com/Home.aspx</url>
 <dateStart>13-Nov-2022</dateStart>
@@ -150,5 +162,11 @@ We aim to create a safe environment for everyone and welcome seasoned speakers a
 Difinity is the largest Microsoft Data, AI, Power BI, Power Platform and Business Applications Conference in New Zealand focusing on Data Platform, AI, Business Intelligence, Business Applications, Power Platform, and Analytics. IT Decision Makers, Developers, Business Analysts, IT Professionals, BI Managers, BI Professionals, Database Administrators, Architects, Digital and Big Data business leaders, and Consultants will gather for two consecutive days of learning.
 
 Difinity Conference been running in New Zealand since 2017, and this would be our 5th year’s anniversary event. We want to make it an special event full of learning, fun, and networking opportunities.</description>
+</event>
+ <event category="Community"><title lang="en">SQL Saturday MN 2022 (#1028)</title>
+<url>https://sqlsaturday.com/2022-12-03-sqlsaturday1028/</url>
+<dateStart>03-Dec-2022</dateStart>
+<dateEnd>03-Dec-2022</dateEnd>
+<description>SQL Saturday MN 2022 is a free virtaul training event for data platform professionals. #SQLSATMN </description>
 </event>
 </events>
