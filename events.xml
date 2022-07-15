@@ -142,6 +142,17 @@ We aim to create a safe environment for everyone and welcome seasoned speakers a
 <dateEnd>08-October-2022</dateEnd>
 <description>SQL Saturday Orlando is a free one day training event for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you! This year we will have five tracks containing five one hour sessions, plus three sponsored sessions during the lunch break.</description>
 </event>
+ <event category="Community"><title lang="en">PostgreSQL Conference Europe</title>
+<url>https://2022.pgconf.eu/</url>
+<dateStart>25-Oct-2022</dateStart>
+<dateEnd>25-Oct-2022</dateEnd>
+<description>PostgreSQL Conference Europe is by far the largest PostgreSQL conference in Europe.
+
+Over a decade of PostgreSQL
+This year's conference is the 12th Annual PostgreSQL Conference Europe, and for this year we are going to Berlin, Germany. The conference is organised by PostgreSQL Europe, with participation from most of the PostgreSQL user groups around Europe, and is intended to be an important meeting and cooperation point for users both in and out of Europe.
+
+PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.</description>
+</event>
 <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
 <url>https://live360events.com/Home.aspx</url>
 <dateStart>13-Nov-2022</dateStart>
