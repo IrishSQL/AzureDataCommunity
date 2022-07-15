@@ -160,6 +160,12 @@ This year's conference is the 12th Annual PostgreSQL Conference Europe, and for 
 
 PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.</description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Oregon and SW Washington 2022 (#1035)</title>
+<url>https://sqlsaturday.com/oregon</url>
+<dateStart>12-November-2022</dateStart>
+<dateEnd>12-November-2022</dateEnd>
+<description>SQL Saturday Oregon is a free one day training event for Data Professionals interested in the Microsoft Data Platform. Topics covered include: SQL Server, Power BI, Azure Synapse, Data Visualization, DataVerse, and much more!</description>
+</event>
 <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
 <url>https://live360events.com/Home.aspx</url>
 <dateStart>13-Nov-2022</dateStart>
