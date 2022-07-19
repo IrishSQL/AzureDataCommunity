@@ -118,6 +118,12 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 <description>Microsoft Data and Insight Conference in person in Chicago
 Data Insight Summit is a conference focused on Microsoft Data Analytics tools and services, such as Power BI, Excel, Synapse, and related technologies. This is an in-person conference in Chicago. Organizers of this conference previously ran some of the most successful events in the Microsoft Data Analytics space, such as the Power BI Summit and Difinity Conference. This is a conference for Data and business analysts, IT Decision Makers, Developers, Business Analysts, BI and Insight Managers, BI Professionals, Architects, Digital and Big Data business leaders, and Consultants. This conference is a three-day event; the first day is a full-day workshop pre-conference followed by two days of conference sessions in five different tracks.</description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Denver 2022</title>
+<url>https://sqlsaturday.com/denver/</url>
+<dateStart>17-September-2022</dateStart>
+<dateEnd>17-September-2022</dateEnd>
+<description>SQL Saturday Denver 2022 is a free one day training event Making all your SQL and Azure dreams come true for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you!</description>
+</event>
  <event category="Community"><title lang="en">Data Saturday #26 - Dallas</title>
 <url>https://datasaturdays.com/2022-09-24-datasaturday0026/</url>
 <dateStart>24-Sept-2022</dateStart>
