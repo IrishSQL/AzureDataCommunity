@@ -156,6 +156,12 @@ We try to elevate those that are usually underrepresented at conferences due to 
 
 We aim to create a safe environment for everyone and welcome seasoned speakers and newcomers alike. Should you require a mentor, we will make sure you will get all the help you’ll need to deliver your session!</description>
 </event>
+ <event category="Community"><title lang="en">Data Saturday Sofia 2022</title>
+<url>https://bsc.technology/DataSaturdaySofia/</url>
+<dateStart>08-October-2022</dateStart>
+<dateEnd>08-October-2022</dateEnd>
+<description>Data Saturday Sofia is a one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across many segments of data platform learning.</description>
+</event>
 <event category="Community"><title lang="en">SQL Saturday Nepal 2022 (#1025)</title>
 <url>https://sqlsaturday.com/nepal</url>
 <dateStart>08-October-2022</dateStart>
