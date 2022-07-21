@@ -117,6 +117,14 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 <dateEnd>10-Sept-2022</dateEnd>
 <description>Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.</description>
 </event>
+ <event category="Community"><title lang="en">Make Data Smart</title>M70
+<url>https://event.dnd.no/mds/engelsk-2/</url>
+<dateStart>12-Sept-2022</dateStart>
+<dateEnd>12-Sept-2022</dateEnd>
+<description>This September, we’re looking forward to welcoming our community of data professionals back to Make Data-Smart. You’ll meet your peers to be inspired by, learn from, share, and celebrate the latest trends and technologies that are influencing the future of data.
+
+At MDS 2022, you’ll hear innovative approaches the world’s leading companies are taking to solve current key challenges in data as well as in businesses. Whether your interests lie in the technical possibilities and challenges of new and emerging technologies or using Big Data for business intelligence, analytics, and other business strategies, Make Data Smart 2022 has something for you!</description>
+</event>
 <event category="Community"><title lang="en">Data Insight Summit</title>
 <url>https://datainsightsummit.us/</url>
 <dateStart>12-Sept-2022</dateStart>
