@@ -111,6 +111,12 @@ DATA Scotland is Scotland's data community event. Bringing experts and attendees
 <dateEnd>10-Sept-2022</dateEnd>
 <description>A fun online conference organized out of Germany, Austria and Switzerland (DACH). It is free, online, interactive and fun data community conference for Microsoft's Data Stack.</description>
 </event>
+ <event category="Community"><title lang="en">Data Saturday Oslo</title>
+<url>https://datasaturdays.com/2022-09-10-datasaturday0023/</url>
+<dateStart>10-Sept-2022</dateStart>
+<dateEnd>10-Sept-2022</dateEnd>
+<description>Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.</description>
+</event>
 <event category="Community"><title lang="en">Data Insight Summit</title>
 <url>https://datainsightsummit.us/</url>
 <dateStart>12-Sept-2022</dateStart>
@@ -120,8 +126,8 @@ Data Insight Summit is a conference focused on Microsoft Data Analytics tools an
 </event>
  <event category="Community"><title lang="en">SQL Saturday Denver 2022</title>
 <url>https://sqlsaturday.com/denver/</url>
-<dateStart>17-September-2022</dateStart>
-<dateEnd>17-September-2022</dateEnd>
+<dateStart>17-Sept-2022</dateStart>
+<dateEnd>17-Sept-2022</dateEnd>
 <description>SQL Saturday Denver 2022 is a free one day training event Making all your SQL and Azure dreams come true for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you!</description>
 </event>
  <event category="Community"><title lang="en">Data Saturday #26 - Dallas</title>
@@ -158,8 +164,8 @@ We aim to create a safe environment for everyone and welcome seasoned speakers a
 </event>
  <event category="Community"><title lang="en">Data Saturday Sofia 2022</title>
 <url>https://bsc.technology/DataSaturdaySofia/</url>
-<dateStart>08-October-2022</dateStart>
-<dateEnd>08-October-2022</dateEnd>
+<dateStart>08-Oct-2022</dateStart>
+<dateEnd>08-Oct-2022</dateEnd>
 <description>Data Saturday Sofia is a one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across many segments of data platform learning.</description>
 </event>
 <event category="Community"><title lang="en">SQL Saturday Nepal 2022 (#1025)</title>
@@ -170,16 +176,16 @@ We aim to create a safe environment for everyone and welcome seasoned speakers a
 </event>
 <event category="Community"><title lang="en">SQL Saturday Boston 2022 (#1031)</title>
 <url>https://sqlsaturday.com/boston/</url>
-<dateStart>08-October-2022</dateStart>
-<dateEnd>08-October-2022</dateEnd>
+<dateStart>08-Oct-2022</dateStart>
+<dateEnd>08-Oct-2022</dateEnd>
 <description>SQL Saturday Boston is a free one day training event for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you!
 
 This event is taking place at the Microsoft Technology Center near Boston and only registered users will be allowed to enter the Microfost facility.</description>
 </event>
  <event category="Community"><title lang="en">SQL Saturday Orlando 2022 (#1030)</title>
 <url>https://sqlsaturday.com/2022-10-08-sqlsaturday1030/</url>
-<dateStart>08-October-2022</dateStart>
-<dateEnd>08-October-2022</dateEnd>
+<dateStart>08-Oct-2022</dateStart>
+<dateEnd>08-Oct-2022</dateEnd>
 <description>SQL Saturday Orlando is a free one day training event for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you! This year we will have five tracks containing five one hour sessions, plus three sponsored sessions during the lunch break.</description>
 </event>
  <event category="Community"><title lang="en">PostgreSQL Conference Europe</title>
