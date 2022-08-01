@@ -215,6 +215,17 @@ This event is taking place at the Microsoft Technology Center near Boston and on
 
 Go ahead and clearly mark Monday October 10th and Tuesday October 11th 2022 in your schedule, as these will be 2 days you don’t want to miss!</description>
 </event>
+ <event category="Community"><title lang="en">Denver Dev Day</title>
+<url>http://denverdevday.com/</url>
+<dateStart>21-Oct-2022</dateStart>
+<dateEnd>21-Oct-2022</dateEnd>
+<description>What is Denver Dev Day?
+
+Welcome to Denver Dev Day, Colorado's premier, local community-organized data and developer event. With presentation topics ranging from desktop, micro-services, and web development to patterns, the cloud, and soft skills, Denver Dev Day is your awesome, free, day-long resource for developer learning.
+
+It's a conference, silly!
+Call for Speakers is open until Sept 1 https://sessionize.com/DenverDevDay-Fall-2022/</description>
+</event>
  <event category="Community"><title lang="en">PostgreSQL Conference Europe</title>
 <url>https://2022.pgconf.eu/</url>
 <dateStart>25-Oct-2022</dateStart>
