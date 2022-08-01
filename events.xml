@@ -207,7 +207,7 @@ This event is taking place at the Microsoft Technology Center near Boston and on
 <dateEnd>08-Oct-2022</dateEnd>
 <description>SQL Saturday Orlando is a free one day training event for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you! This year we will have five tracks containing five one hour sessions, plus three sponsored sessions during the lunch break.</description>
 </event>
- <event category=""Community""><title lang=""en"">dataMinds Connect</title>M70
+ <event category="Community"><title lang="en">dataMinds Connect</title>
 <url>https://datamindsconnect.be/</url>
 <dateStart>10-Oct-2022</dateStart>
 <dateEnd>11-Oct-2022</dateEnd>
