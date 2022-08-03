@@ -97,13 +97,7 @@ Our next conference is on Saturday 9th July 2022. This is a virtual event which 
 <dateEnd>13-Aug-2022</dateEnd>
 <description>data.SQL.Saturday.la is a free training event for professionals who use the Microsoft data platform. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more. </description>
 </event>
- <event category="Community"><title lang="en">Solarwinds and the City </title>
-<url>https://events.bizzabo.com/416808</url>
-<dateStart>18-Aug-2022</dateStart>
-<dateEnd>18-Aug-2022</dateEnd>
-<description>SolarWinds is coming to NYC, hosting a happy hour in a vibrant environment where you can enjoy classic cocktails and elevated hors d’oeuvres. Get out of the office early and join us in exploring the exciting use cases and features from our next generation database solutions. We hope to drive conversations and insights for your database environment as we build relationships during this memorable experience.</description>
-</event>
- <event category="Community"><title lang="en">DATA:Scotland</title>
+<event category="Community"><title lang="en">DATA:Scotland</title>
 <url>https://www.datascotland.org/</url>
 <dateStart>01-Sept-2022</dateStart>
 <dateEnd>01-Sept-2022</dateEnd>
@@ -138,14 +132,7 @@ At MDS 2022, you’ll hear innovative approaches the world’s leading companies
 <description>Microsoft Data and Insight Conference in person in Chicago
 Data Insight Summit is a conference focused on Microsoft Data Analytics tools and services, such as Power BI, Excel, Synapse, and related technologies. This is an in-person conference in Chicago. Organizers of this conference previously ran some of the most successful events in the Microsoft Data Analytics space, such as the Power BI Summit and Difinity Conference. This is a conference for Data and business analysts, IT Decision Makers, Developers, Business Analysts, BI and Insight Managers, BI Professionals, Architects, Digital and Big Data business leaders, and Consultants. This conference is a three-day event; the first day is a full-day workshop pre-conference followed by two days of conference sessions in five different tracks.</description>
 </event>
- <event category="Community"><title lang="en">Solarwinds Rocks </title>
-<url>https://events.bizzabo.com/418458</url>
-<dateStart>15-Sept-2022</dateStart>
-<dateEnd>15-Sept-2022</dateEnd>
-<description>SolarWinds is hosting a hoppy hour at a homegrown Cleveland institution! Get out of the office early and join us as we explore exciting use cases and feature rollouts from our diverse database solutions. We hope to drive conversations and insights for your database environment as we meet old friends and create new partnerships in this low-key setting.
-</description>
-</event>
- <event category="Community"><title lang="en">SQL Saturday Denver 2022</title>
+<event category="Community"><title lang="en">SQL Saturday Denver 2022</title>
 <url>https://sqlsaturday.com/denver/</url>
 <dateStart>17-Sept-2022</dateStart>
 <dateEnd>17-Sept-2022</dateEnd>
