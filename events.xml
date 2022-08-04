@@ -145,6 +145,12 @@ Data Insight Summit is a conference focused on Microsoft Data Analytics tools an
 <description>Data Saturday Dallas is a one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.
   Call for Speakers is open until Aug 14, 2022.</description>
 </event>
+ <event category="Community"><title lang="en">Future Data Driven Summit 2022</title>
+<url>http://datadrivencommunity.com/</url>
+<dateStart>28-Sept-2022</dateStart>
+<dateEnd>28-Sept-2022</dateEnd>
+<description>Future Data Driven is a marquee, online event focusing on the comprehensive Microsoft Data Platform. Our mission is to inform and update attendees with Data and AI, DevOps and DataOps, PowerBI and Visualization, Integration and Automation and cloud infrastructure. </description>
+</event>
  <event category="Community"><title lang="en">Data Saturday Atlanta</title>
 <url>https://datasaturdays.com/2022-10-01-datasaturday0028/</url>
 <dateStart>01-Oct-2022</dateStart>
@@ -215,6 +221,17 @@ This event is taking place at the Microsoft Technology Center near Boston and on
 
 Go ahead and clearly mark Monday October 10th and Tuesday October 11th 2022 in your schedule, as these will be 2 days you don’t want to miss!</description>
 </event>
+ <event category="Community"><title lang="en">Denver Dev Day</title>
+<url>http://denverdevday.com/</url>
+<dateStart>21-Oct-2022</dateStart>
+<dateEnd>21-Oct-2022</dateEnd>
+<description>What is Denver Dev Day?
+
+Welcome to Denver Dev Day, Colorado's premier, local community-organized data and developer event. With presentation topics ranging from desktop, micro-services, and web development to patterns, the cloud, and soft skills, Denver Dev Day is your awesome, free, day-long resource for developer learning.
+
+It's a conference, silly!
+Call for speakers is open until Sept 30 https://sessionize.com/DenverDevDay-Fall-2022/</description>
+</event>"
 <event category="Community"><title lang="en">PostgreSQL Conference Europe</title>
 <url>https://2022.pgconf.eu/</url>
 <dateStart>25-Oct-2022</dateStart>
