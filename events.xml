@@ -118,6 +118,12 @@ Data Insight Summit is a conference focused on Microsoft Data Analytics tools an
 <dateEnd>17-Sept-2022</dateEnd>
 <description>SQL Saturday Denver 2022 is a free one day training event Making all your SQL and Azure dreams come true for IT professionals and students interested in the Microsoft data platform (SQL Server, PowerBI, SSIS, and much more). Free registration is required, you can opt-in for lunch or bring your own, whatever works for you!</description>
 </event>
+ <event category="Community"><title lang="en">Data Platform Summit 2022</title>
+<url>https://bit.ly/dps2022msglobal</url>
+<dateStart>19-September-2022</dateStart>
+<dateEnd>23-September-2022</dateEnd>
+<description>The best minds from the Azure Data Team are joining Data Platform Summit to share deep technical knowledge & real-world experiences. Join for free. September 19-23.</description>
+</event>
  <event category="Community"><title lang="en">Data Saturday #26 - Dallas</title>
 <url>https://datasaturdays.com/2022-09-24-datasaturday0026/</url>
 <dateStart>24-Sept-2022</dateStart>
