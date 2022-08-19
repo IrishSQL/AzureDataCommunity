@@ -237,6 +237,13 @@ This year's conference is the 12th Annual PostgreSQL Conference Europe, and for 
 
 PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.</description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday São Paulo 2022 (#1037) </title>
+<url>https://sqlsaturday.com/saopaulo</url>
+<dateStart>05-November-2022</dateStart>
+<dateEnd>05-November-2022</dateEnd>
+<description>SQL Saturday is a global event to bring Information Technology speakers and professionals together for a community-driven, community-attended free day of technical training.
+   Call for Speakers closes Oct 15, 2022!</description>
+</event>
  <event category="Community"><title lang="en">SQL Saturday Oregon and SW Washington 2022 (#1035)</title>
 <url>https://sqlsaturday.com/oregon</url>
 <dateStart>12-Nov-2022</dateStart>
