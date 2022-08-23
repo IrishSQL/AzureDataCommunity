@@ -220,12 +220,19 @@ Call for speakers is open until Sept 30 https://sessionize.com/DenverDevDay-Fall
 </event>
 <event category="Community"><title lang="en">SQL Saturday Toronto 2022</title>
 <url>https://sqlsaturday.com/toronto</url>
-<dateStart>22-October-2022</dateStart>
-<dateEnd>22-October-2022</dateEnd>
+<dateStart>22-Oct-2022</dateStart>
+<dateEnd>22-Oct-2022</dateEnd>
 <description>SQL Saturday Toronto 2022 is a full day of free training and cutting-edge educational material for the professionals in the Microsoft Data Platform space. We will bring to you World-grade technical speakers to deliver demos loaded presentations.
   Call for Speakers is open until Aug 19, 2022 https://sessionize.com/sql-saturday-toronto-2022/
   </description>
  </event>
+<event category="Community"><title lang="en">SQL Saturday RVA</title>
+<url>http://sqlsaturday.com/richmond</url>
+<dateStart>22-Oct-2022</dateStart>
+<dateEnd>22-Oct-2022</dateEnd>
+<description>SQL Saturday RVA (Richmond, Virginia) is a free one-day training event for IT professionals and students interested in the Microsoft data platform: SQL Server Databases, Business Intelligence, Data Analytics, and more.  
+  Call for speakers is open until Aug 31, 2022 https://sessionize.com/sql-saturday-rva/</description>
+</event>
 <event category="Community"><title lang="en">PostgreSQL Conference Europe</title>
 <url>https://2022.pgconf.eu/</url>
 <dateStart>25-Oct-2022</dateStart>
