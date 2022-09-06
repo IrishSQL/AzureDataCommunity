@@ -257,6 +257,15 @@ PGConf.EU is a unique chance for European PostgreSQL users and developers to cat
 <dateEnd>12-Nov-2022</dateEnd>
 <description>SQL Saturday Oregon is a free one day training event for Data Professionals interested in the Microsoft Data Platform. Topics covered include: SQL Server, Power BI, Azure Synapse, Data Visualization, DataVerse, and much more!</description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Bangladesh 2022</title>
+<url>https://sqlsaturday.com/bangladesh</url>
+<dateStart>12-Nov-2022</dateStart>
+<dateEnd>12-Nov-2022</dateEnd>
+<description>SQL Saturday Bangladesh is the first annual SQL Saturday organized by the techforum technical community and focused on data platform market needs.
+
+This is a free training day full of information about Microsoft Data Platform brought to us by the best international speakers available.  
+Call for Speakers closes Oct 29, 2022.  https://sessionize.com/sqlsaturday-2022-techforum-bangladesh/</description>
+</event>
 <event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
 <url>https://live360events.com/Home.aspx</url>
 <dateStart>13-Nov-2022</dateStart>
