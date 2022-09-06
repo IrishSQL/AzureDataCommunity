@@ -27,25 +27,6 @@ The Microsoft engineers presenting will take a deep dive with you into the many 
 You’ll also have the opportunity to spend time with Microsoft engineers and industry experts you know and trust to present real-world solutions and tips for productivity. Join other leaders from the Azure Data Community to connect, network and grow!
 </description>
 </event>
-<event category="Community"><title lang="en">Azure for All Series 2022 - Dear Azure | Azure INDIA</title>
-<url>https://bit.ly/azureforall-register  </url>
-<dateStart>28-May-2022</dateStart>
-<dateEnd>28-May-2022</dateEnd>
-<description>Title: Data Exploration with Azure Synapse for Cloud Professionals
-
-Saturday, 28 May - 10:00 AM IST to 11:00 AM IST
-
-This is a 2-part series on Azure Synapse for Cloud Professionals. In this 1st session, Wilson will guide you through the best practice of using Azure Synapse for Data Exploration.
-
-This includes:
-•	Overview of Azure Synapse.
-•	How to conduct a data exploration? 
-•	A demo of using Azure Synapse for data exploration:
-  o	Using Serverless Spark pool to analyze and prepare data.
-  o	Using Serverless SQL to transform data to create data insight.
-
-At the end of this session, you will be ready to analyze your data and create your own insights in Azure Synapse.</description>
-</event>
 <event category="Community"><title lang="en">Solarwinds and the City </title>
 <url>https://events.bizzabo.com/416808</url>
 <dateStart>18-Aug-2022</dateStart>
