@@ -15,7 +15,7 @@
 </event>
 <event category="Community">
 <title lang="en">Azure Data Conference - Orlando </title>
-<url>https://azuredataconf.com/#!/</url>
+<url>https://azuredataconf.com/</url>
 <dateStart>Dec 3, 2023</dateStart>
 <dateEnd>Dec 8, 2023</dateEnd>
 <description>
@@ -26,7 +26,8 @@ The Microsoft engineers presenting will take a deep dive with you into the many 
 You’ll also have the opportunity to spend time with Microsoft engineers and industry experts you know and trust to present real-world solutions and tips for productivity. Join other leaders from the Azure Data Community to connect, network and grow!
 </description>
 </event>
-<event category="Community"><title lang="en">PostgreSQL Conference Europe</title>
+<event category="Community">
+<title lang="en">PostgreSQL Conference Europe</title>
 <url>https://2022.pgconf.eu/</url>
 <dateStart>19-Jun-2023</dateStart>
 <dateEnd>22-Jun-2023</dateEnd>
@@ -35,7 +36,8 @@ You’ll also have the opportunity to spend time with Microsoft engineers and in
 Over a decade of PostgreSQL
 The conference is organised by PostgreSQL Europe, with participation from most of the PostgreSQL user groups around Europe, and is intended to be an important meeting and cooperation point for users both in and out of Europe.
 
-PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.</description>
+PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.
+</description>
 </event>
 <event category="Community"><title lang="en">Difinity</title>
 <url>https://difinity.co.nz/</url>
@@ -46,13 +48,8 @@ Difinity is the largest Microsoft Data, AI, Power BI, Power Platform and Busines
 
 Difinity Conference been running in New Zealand since 2017, and this would be our 5th year’s anniversary event. We want to make it an special event full of learning, fun, and networking opportunities.</description>
 </event>
- <event category="Community"><title lang="en">SQL Saturday MN 2022 (#1028)</title>
-<url>https://sqlsaturday.com/2022-12-03-sqlsaturday1028/</url>
-<dateStart>03-Dec-2022</dateStart>
-<dateEnd>03-Dec-2022</dateEnd>
-<description>SQL Saturday MN 2022 is a free virtaul training event for data platform professionals. #SQLSATMN </description>
-</event>
- <event category="Community"><title lang="en">SQL Bits 2023</title>
+<event category="Community">
+ <title lang="en">SQL Bits 2023</title>
 <url>https://sqlsaturday.com/2023-12-03-sqlsaturday1028/</url>
 <dateStart>14-Mar-2023</dateStart>
 <dateEnd>18-Mar-2023</dateEnd>
