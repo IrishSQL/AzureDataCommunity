@@ -9,91 +9,35 @@
 <event category="Microsoft">
 <title lang="en">Microsoft Ignite</title>
 <url>https://myignite.microsoft.com/home</url>
-<dateStart>Oct 12, 2022</dateStart>
-<dateEnd>Oct 14, 2022</dateEnd>
+<dateStart>Nov 15, 2023</dateStart>
+<dateEnd>Nov 16, 2023</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
 <event category="Community">
-<title lang="en">Azure Data Conference - Las Vegas </title>
+<title lang="en">Azure Data Conference - Orlando </title>
 <url>https://azuredataconf.com/#!/</url>
-<dateStart>Dec 4, 2022</dateStart>
-<dateEnd>Dec 9, 2022</dateEnd>
-<description>Conference: Dec. 6th-8th
-Workshops: Dec. 4th, 5th, 9th
-Join your favorite Microsoft leaders, including EVP Scott Guthrie, and CVP Rohan Kumar, as they share their excitement about the future of Microsoft technologies. Their keynotes set the stage for this great learning event. 
+<dateStart>Dec 3, 2023</dateStart>
+<dateEnd>Dec 8, 2023</dateEnd>
+<description>
+Join your favorite Microsoft leaders & engineers as they share their excitement about the future of Microsoft technologies. Their keynotes set the stage for this great learning event. 
 
 The Microsoft engineers presenting will take a deep dive with you into the many new technology releases, including the latest updates to SQL Server, Azure SQL, and the entire Azure Data Platform.
 
 You’ll also have the opportunity to spend time with Microsoft engineers and industry experts you know and trust to present real-world solutions and tips for productivity. Join other leaders from the Azure Data Community to connect, network and grow!
 </description>
 </event>
- <event category="Community"><title lang="en">SQL Saturday RVA</title>
-<url>http://sqlsaturday.com/richmond</url>
-<dateStart>22-October-2022</dateStart>
-<dateEnd>22-October-2022</dateEnd>
-<description>A free day-long training event for people interested in the MS SQL data platform, Azure, PowerBI and Azure Data Factory. </description>
-</event>
-<event category="Community"><title lang="en">SQL Saturday Toronto 2022</title>
-<url>https://sqlsaturday.com/toronto</url>
-<dateStart>22-Oct-2022</dateStart>
-<dateEnd>22-Oct-2022</dateEnd>
-<description>SQL Saturday Toronto 2022 is a full day of free training and cutting-edge educational material for the professionals in the Microsoft Data Platform space. We will bring to you World-grade technical speakers to deliver demos loaded presentations.
-  Call for Speakers is open until Aug 19, 2022 https://sessionize.com/sql-saturday-toronto-2022/
-  </description>
- </event>
-<event category="Community"><title lang="en">SQL Saturday RVA</title>
-<url>http://sqlsaturday.com/richmond</url>
-<dateStart>22-Oct-2022</dateStart>
-<dateEnd>22-Oct-2022</dateEnd>
-<description>SQL Saturday RVA (Richmond, Virginia) is a free one-day training event for IT professionals and students interested in the Microsoft data platform: SQL Server Databases, Business Intelligence, Data Analytics, and more.  
-  Call for speakers is open until Aug 31, 2022 https://sessionize.com/sql-saturday-rva/</description>
-</event>
 <event category="Community"><title lang="en">PostgreSQL Conference Europe</title>
 <url>https://2022.pgconf.eu/</url>
-<dateStart>25-Oct-2022</dateStart>
-<dateEnd>25-Oct-2022</dateEnd>
+<dateStart>19-Jun-2023</dateStart>
+<dateEnd>22-Jun-2023</dateEnd>
 <description>PostgreSQL Conference Europe is by far the largest PostgreSQL conference in Europe.
 
 Over a decade of PostgreSQL
-This year's conference is the 12th Annual PostgreSQL Conference Europe, and for this year we are going to Berlin, Germany. The conference is organised by PostgreSQL Europe, with participation from most of the PostgreSQL user groups around Europe, and is intended to be an important meeting and cooperation point for users both in and out of Europe.
+The conference is organised by PostgreSQL Europe, with participation from most of the PostgreSQL user groups around Europe, and is intended to be an important meeting and cooperation point for users both in and out of Europe.
 
 PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.</description>
 </event>
- <event category="Community"><title lang="en">SQL Saturday São Paulo 2022 (#1037) </title>
-<url>https://sqlsaturday.com/saopaulo</url>
-<dateStart>05-November-2022</dateStart>
-<dateEnd>05-November-2022</dateEnd>
-<description>SQL Saturday is a global event to bring Information Technology speakers and professionals together for a community-driven, community-attended free day of technical training.
-   Call for Speakers closes Oct 15, 2022!</description>
-</event>
- <event category="Community"><title lang="en">SQL Saturday Oregon and SW Washington 2022 (#1035)</title>
-<url>https://sqlsaturday.com/oregon</url>
-<dateStart>12-Nov-2022</dateStart>
-<dateEnd>12-Nov-2022</dateEnd>
-<description>SQL Saturday Oregon is a free one day training event for Data Professionals interested in the Microsoft Data Platform. Topics covered include: SQL Server, Power BI, Azure Synapse, Data Visualization, DataVerse, and much more!</description>
-</event>
- <event category="Community"><title lang="en">SQL Saturday Bangladesh 2022</title>
-<url>https://sqlsaturday.com/bangladesh</url>
-<dateStart>12-Nov-2022</dateStart>
-<dateEnd>12-Nov-2022</dateEnd>
-<description>SQL Saturday Bangladesh is the first annual SQL Saturday organized by the techforum technical community and focused on data platform market needs.
-
-This is a free training day full of information about Microsoft Data Platform brought to us by the best international speakers available.  
-Call for Speakers closes Oct 29, 2022.  https://sessionize.com/sqlsaturday-2022-techforum-bangladesh/</description>
-</event>
-<event category="Community"><title lang="en">Live! 360 Tech Conference 2022</title>
-<url>https://live360events.com/Home.aspx</url>
-<dateStart>13-Nov-2022</dateStart>
-<dateEnd>18-Nov-2022</dateEnd>
-<description>Live! 360 brings the IT, Developer, and Data communities together for six days of training, knowledge sharing, and networking in Sunny Orlando. With unlimited access to Live! 360’s five co-located events, you and your team will get the training you need to keep you and your business competitive and future-ready. Live! 360 = the Ultimate Education Destination!</description>
-</event>
-<event category="Community"><title lang="en">PASS Data Community Summit</title>
-<url>https://passdatacommunitysummit.com</url>
-<dateStart>15-Nov-2022</dateStart>
-<dateEnd>18-Nov-2022</dateEnd>
-<description>Join the world’s largest gathering of data professionals at this year’s hybrid PASS Data Community Summit. Whether you're attending online or in-person, this is your opportunity to connect, share, and learn with thousands of your peers and experts from the global data platform community.</description>
-</event>
- <event category="Community"><title lang="en">Difinity</title>
+<event category="Community"><title lang="en">Difinity</title>
 <url>https://difinity.co.nz/</url>
 <dateStart>28-Nov-2022</dateStart>
 <dateEnd>28-Nov-2022</dateEnd>
@@ -107,5 +51,16 @@ Difinity Conference been running in New Zealand since 2017, and this would be ou
 <dateStart>03-Dec-2022</dateStart>
 <dateEnd>03-Dec-2022</dateEnd>
 <description>SQL Saturday MN 2022 is a free virtaul training event for data platform professionals. #SQLSATMN </description>
+</event>
+ <event category="Community"><title lang="en">SQL Bits 2023</title>
+<url>https://sqlsaturday.com/2023-12-03-sqlsaturday1028/</url>
+<dateStart>14-Mar-2023</dateStart>
+<dateEnd>18-Mar-2023</dateEnd>
+<description> SQLBits is THE conference for leading data professionals to network, develop and share data knowledge. SQLBits is the largest Data Platform conference with over 300 sessions over 5 days covering data technologies, including SQL Server, Azure, Big Data, Power BI, Machine Learning, and more! 
+ Born out of the hunger to share the latest developments, solutions and best practice, whilst forming a network of data professionals behind some of the most exciting developments on the Modern Data Platform.
+SQLBits provides you with the education, skills and solutions from the people that have created the products, and are leading the field worldwide. This is your chance to meet the people that design and build the products you use and depend on. 
+Where?
+International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
+ </description>
 </event>
 </events>
