@@ -27,28 +27,6 @@ You’ll also have the opportunity to spend time with Microsoft engineers and in
 </description>
 </event>
 <event category="Community">
-<title lang="en">PostgreSQL Conference Europe</title>
-<url>https://2022.pgconf.eu/</url>
-<dateStart>19-Jun-2023</dateStart>
-<dateEnd>22-Jun-2023</dateEnd>
-<description>PostgreSQL Conference Europe is by far the largest PostgreSQL conference in Europe.
-
-Over a decade of PostgreSQL
-The conference is organised by PostgreSQL Europe, with participation from most of the PostgreSQL user groups around Europe, and is intended to be an important meeting and cooperation point for users both in and out of Europe.
-
-PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.
-</description>
-</event>
-<event category="Community"><title lang="en">Difinity</title>
-<url>https://difinity.co.nz/</url>
-<dateStart>28-Nov-2022</dateStart>
-<dateEnd>28-Nov-2022</dateEnd>
-<description>Microsoft AI, Data, and Power Platform Conference
-Difinity is the largest Microsoft Data, AI, Power BI, Power Platform and Business Applications Conference in New Zealand focusing on Data Platform, AI, Business Intelligence, Business Applications, Power Platform, and Analytics. IT Decision Makers, Developers, Business Analysts, IT Professionals, BI Managers, BI Professionals, Database Administrators, Architects, Digital and Big Data business leaders, and Consultants will gather for two consecutive days of learning.
-
-Difinity Conference been running in New Zealand since 2017, and this would be our 5th year’s anniversary event. We want to make it an special event full of learning, fun, and networking opportunities.</description>
-</event>
-<event category="Community">
  <title lang="en">SQL Bits 2023</title>
 <url>https://events.sqlbits.com/2023/</url>
 <dateStart>14-Mar-2023</dateStart>
@@ -59,5 +37,27 @@ SQLBits provides you with the education, skills and solutions from the people th
 Where?
 International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
  </description>
+</event>
+ <event category="Community">
+<title lang="en">PSConfEU</title>
+<url>https://psconf.eu/</url>
+<dateStart>19-Jun-2023</dateStart>
+<dateEnd>22-Jun-2023</dateEnd>
+<description>Join us June 19th-22nd 2023 at Cubex Centrum, Prague, Czech Republic to discover what professionals around the globe are doing to solve real-world problems! 
+ Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. 
+ Share your code and show how you are solving problems so that others can learn from you and learn from those that have a different approach to the same problem. </description>
+</event>
+<event category="Community">
+<title lang="en">PostgreSQL Conference Europe</title>
+<url>https://2023.pgconf.eu/</url>
+<dateStart>12-Dec-2023</dateStart>
+<dateEnd>15-Dec-2023</dateEnd>
+<description>PostgreSQL Conference Europe is by far the largest PostgreSQL conference in Europe.
+
+Over a decade of PostgreSQL
+The conference is organised by PostgreSQL Europe, with participation from most of the PostgreSQL user groups around Europe, and is intended to be an important meeting and cooperation point for users both in and out of Europe.
+
+PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.
+</description>
 </event>
 </events>
