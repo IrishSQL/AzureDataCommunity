@@ -38,7 +38,8 @@ Where?
 International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
  </description>
 </event>
- <event category=""Community""><title lang=""en"">Citus Con: An Event for Postgres</title>
+<event category="Community">
+<title lang="en">Citus Con: An Event for Postgres</title>
 <url>https://www.citusdata.com/cituscon/2022/</url>
 <dateStart>18-Apr-2023</dateStart>
 <dateEnd>19-Apr-2023</dateEnd>
