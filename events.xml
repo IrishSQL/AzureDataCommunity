@@ -60,16 +60,4 @@ The conference is organised by PostgreSQL Europe, with participation from most o
 PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.
 </description>
 </event>
- <event category="Community">
-<title lang="en">Citus Con: An Event for Postgres</title>
-<url>https://www.citusdata.com/cituscon/2023/</url>
-<dateStart>18-Apr-2023</dateStart>
-<dateEnd>18-Apr-2023</dateEnd>
-<description> Citus Con is a free and virtual developer event happening April 18-19, 2023—organized by the Citus and Postgres team at Microsoft.  Join us to hear from open source users, Azure database customers, and experts in PostgreSQL and Citus about how they use Postgres. 
- 
-There will be 2 unique livestreams happening at different times of day, plus on-demand talks too—from Citus open- source users, Azure Cosmos DB for Postgres and Azure Database for PostgreSQL customers, and experts in Postgres and Citus.  
-
-Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Speakers. (Hurry, the CFP closes February 6. ) 
-</description>
-</event>
 </events>
