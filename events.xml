@@ -38,6 +38,18 @@ Where?
 International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
 </description>
 </event>
+ <event category="Community">
+ <title lang="en">SQL Bits 2023</title>
+<url>https://events.sqlbits.com/2023/</url>
+<dateStart>14-Mar-2023</dateStart>
+<dateEnd>18-Mar-2023</dateEnd>
+<description> SQLBits is THE conference for leading data professionals to network, develop and share data knowledge. SQLBits is the largest Data Platform conference with over 300 sessions over 5 days covering data technologies, including SQL Server, Azure, Big Data, Power BI, Machine Learning, and more! 
+ Born out of the hunger to share the latest developments, solutions and best practice, whilst forming a network of data professionals behind some of the most exciting developments on the Modern Data Platform.
+SQLBits provides you with the education, skills and solutions from the people that have created the products, and are leading the field worldwide. This is your chance to meet the people that design and build the products you use and depend on. 
+Where?
+International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
+</description>
+</event>
 <event category="Community">
 <title lang="en">PSConfEU</title>
 <url>https://psconf.eu/</url>
