@@ -38,6 +38,15 @@ Where?
 International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
  </description>
 </event>
+ <event category=""Community""><title lang=""en"">Citus Con: An Event for Postgres</title>
+<url>https://www.citusdata.com/cituscon/2022/</url>
+<dateStart>18-Apr-2023</dateStart>
+<dateEnd>19-Apr-2023</dateEnd>
+<description>Citus Con: An Event for Postgres is a free and virtual developer event happening April 18-19 —organized by the Postgres team at Microsoft. There will be livestream talks in 3 geographies, plus on-demand talks too—from Citus open- source users, Azure Database for PostgreSQL customers, and experts in Postgres and Citus.  
+ 
+Talks are 25 minutes long and in English. Check out the #CitusCon Call for Speakers. (Hurry, the CFP closes February 5!)
+</description>
+</event>
  <event category="Community">
 <title lang="en">PSConfEU</title>
 <url>https://psconf.eu/</url>
