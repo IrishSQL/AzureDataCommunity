@@ -9,15 +9,15 @@
 <event category="Microsoft">
 <title lang="en">Microsoft Ignite</title>
 <url>https://myignite.microsoft.com/home</url>
-<dateStart>Nov 15, 2023</dateStart>
-<dateEnd>Nov 16, 2023</dateEnd>
+<dateStart>Nov-15-2023</dateStart>
+<dateEnd>Nov-16-2023</dateEnd>
 <description>Until our next event experience, check out the latest learning opportunities, recent event highlights, and more.</description>
 </event>
 <event category="Community">
 <title lang="en">Azure Data Conference - Orlando </title>
 <url>https://azuredataconf.com/</url>
-<dateStart>Dec 3, 2023</dateStart>
-<dateEnd>Dec 8, 2023</dateEnd>
+<dateStart>Dec 3 2023</dateStart>
+<dateEnd>Dec 8 2023</dateEnd>
 <description>
 Join your favorite Microsoft leaders and engineers as they share their excitement about the future of Microsoft technologies. Their keynotes set the stage for this great learning event. 
 
@@ -40,8 +40,8 @@ International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ
 </event>
  <event category="Community"><title lang="en">DataMeetup</title>
 <url>https://t.ly/rp_L</url>
-<dateStart>18-March-2023</dateStart>
-<dateEnd>18-March-2023</dateEnd>
+<dateStart>18-Mar-2023</dateStart>
+<dateEnd>18-Mar-2023</dateEnd>
 <description>Sociedad Dominicana en Ciencia de Datos y la Escuela de Arte and Cultura de la Universidad Domínico Americano (UNICDA) te invitan a vivir la experiencia “DataMeetup”.
 
 Sábado 18 de marzo a las 2:00pm
@@ -69,6 +69,12 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
 <description>Join us June 19th-22nd 2023 at Cubex Centrum, Prague, Czech Republic to discover what professionals around the globe are doing to solve real-world problems! 
  Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. 
  Share your code and show how you are solving problems so that others can learn from you and learn from those that have a different approach to the same problem. </description>
+</event>
+ <event category="Community"><title lang="en">SQLKonferenz</title>
+<url>https://sqlkonferenz.de/</url>
+<dateStart>11-Sept-2023</dateStart>
+<dateEnd>11-Sept-2023</dateEnd>
+<description>SQLKonferenz is the largest conference for the Microsoft Data Platform in the DACH region. It is a conference organized by the German Microsoft Data Platform Community (PASS Deutschland e.V.). The conference is established since 2014 and holds german and english speaking tracks. The conference venue is located this year in HANA, which is 40km from Frankfurt International Airport in the middle of Germany. </description>
 </event>
 <event category="Community">
 <title lang="en">PostgreSQL Conference Europe</title>
