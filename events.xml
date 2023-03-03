@@ -38,6 +38,16 @@ Where?
 International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
 </description>
 </event>
+ <event category="Community"><title lang="en">DataMeetup</title>
+<url>https://t.ly/rp_L</url>
+<dateStart>18-March-2023</dateStart>
+<dateEnd>18-March-2023</dateEnd>
+<description>Sociedad Dominicana en Ciencia de Datos y la Escuela de Arte and Cultura de la Universidad Domínico Americano (UNICDA) te invitan a vivir la experiencia “DataMeetup”.
+
+Sábado 18 de marzo a las 2:00pm
+
+¡No te lo pierdas!</description>
+</event>
  <event category="Community">
  <title lang="en">Citus Con: An Event for Postgres</title>
 <url>https://www.citusdata.com/cituscon/2023 </url>
