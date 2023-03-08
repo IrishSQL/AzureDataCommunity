@@ -76,18 +76,6 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
  Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. 
  Share your code and show how you are solving problems so that others can learn from you and learn from those that have a different approach to the same problem. </description>
 </event>
- <event category="Community"><title lang="en">SQL Saturday Boston 2023 (#1046)</title>
-<url>https://sqlsaturday.com/2023-10-14-sqlsaturday1046/</url>
-<dateStart>13-Oct-2023</dateStart>
-<dateEnd>13-Oct-2023</dateEnd>
-<description>SQL Saturday is a one-day free training event for people that work with the Microsoft Data Platform
-SQL Saturday Boston 2023 will take place on October 14th, 2023, at the Microsoft Burlington office.
-This is a free event for the tech community organized by SQLSatuday and New England SQL Server User Group (NESQL) We encourage you to register early. 
-
-Precon on October 13th, 2023.
-Mastering Query Tuning by Brent Ozar
-</description>
-</event>
 <event category="Community">
 <title lang="en">PostgreSQL Conference Europe</title>
 <url>https://2023.pgconf.eu/</url>
