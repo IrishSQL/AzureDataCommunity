@@ -88,6 +88,12 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
 
 </description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Haiti 2023 (#1050)</title>
+<url>https://sqlsaturday.com/2023-04-29-sqlsaturday1050/</url>
+<dateStart>29-Apr-2023</dateStart>
+<dateEnd>29-Apr-2023</dateEnd>
+<description>Virtual one day conference for data professionals in French</description>
+</event>
  <event category="Community"><title lang="en">SQL Saturday Jacksonville 2023 (#1041)</title>
 <url>https://sqlsaturday.com/2023-05-06-sqlsaturday1041/</url>
 <dateStart>06-May-2023</dateStart>
@@ -101,6 +107,12 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
 <dateStart>06-May-2023</dateStart>
 <dateEnd>06-May-2023</dateEnd>
 <description>SQL Saturday New York City is a one day, free training event for data platform professionals, hosted at the Microsoft Technology Center in Times Square.</description>
+</event>
+ <event category="Community"><title lang="en">SQL Saturday South Florida 2023 (#1053)</title>
+<url>https://sqlsaturday.com/2023-06-03-sqlsaturday1053/</url>
+<dateStart>03-Jun-2023</dateStart>
+<dateEnd>03-Jun-2023</dateEnd>
+<description>Free one day conference for data professionals</description>
 </event>
 <event category="Community">
 <title lang="en">PSConfEU</title>
