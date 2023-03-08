@@ -123,11 +123,33 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
  Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. 
  Share your code and show how you are solving problems so that others can learn from you and learn from those that have a different approach to the same problem. </description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday Ica 2023 (#1051)</title>
+<url>https://sqlsaturday.com/2023-06-24-sqlsaturday1051/</url>
+<dateStart>24-Jun-2023</dateStart>
+<dateEnd>24-Jun-2023</dateEnd>
+<description>Free one day conference for data professionals</description>
+</event>
  <event category="Community"><title lang="en">SQLKonferenz</title>
 <url>https://sqlkonferenz.de/</url>
 <dateStart>11-Sept-2023</dateStart>
 <dateEnd>11-Sept-2023</dateEnd>
 <description>SQLKonferenz is the largest conference for the Microsoft Data Platform in the DACH region. It is a conference organized by the German Microsoft Data Platform Community (PASS Deutschland e.V.). The conference is established since 2014 and holds german and english speaking tracks. The conference venue is located this year in HANA, which is 40km from Frankfurt International Airport in the middle of Germany. </description>
+</event>
+ <event category="Community"><title lang="en">SQL Saturday Denver 2023 (#1056)</title>
+<url>https://sqlsaturday.com/2023-09-23-sqlsaturday1056/</url>
+<dateStart>23-Sept-2023</dateStart>
+<dateEnd>23-Sept-2023</dateEnd>
+<description>Free one day conference for data professionals</description>
+</event>
+ <event category="Community"><title lang="en">SQL Saturday Boston 2023</title>
+<url>https://sqlsaturday.com/2023-10-14-sqlsaturday1046/</url>
+<dateStart>14-Oct-2023</dateStart>
+<dateEnd>14-Oct-2023</dateEnd>
+<description>SQL Saturday is a one-day free training event for people that work with the Microsoft Data Platform
+SQL Saturday Boston 2023 will take place on October 14th, 2023, at the Microsoft Burlington office.
+This is a free event for the tech community organized by SQLSatuday and New England SQL Server User Group (NESQL) We encourage you to register early.
+
+Precon on October 13th, 2023: Mastering Query Tuning by Brent Ozar</description>
 </event>
 <event category="Community">
 <title lang="en">PostgreSQL Conference Europe</title>
