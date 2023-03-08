@@ -96,6 +96,12 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
  Admittance to this event is free, all costs are covered by donations and sponsorship. Please register soon as seating is limited 
  Friday, SQL Sat Jax runs 2 pre-con tracks and this year they welcome Bob Ward (SQL Server 2022) and Ginger Grant (Azure Synapse and PowerBI).</description>
 </event>
+ <event category="Community"><title lang="en">SQL Saturday New York City 2023 (#1048)</title>
+<url>https://sqlsaturday.com/2023-05-06-sqlsaturday1048/</url>
+<dateStart>06-May-2023</dateStart>
+<dateEnd>06-May-2023</dateEnd>
+<description>SQL Saturday New York City is a one day, free training event for data platform professionals, hosted at the Microsoft Technology Center in Times Square.</description>
+</event>
 <event category="Community">
 <title lang="en">PSConfEU</title>
 <url>https://psconf.eu/</url>
