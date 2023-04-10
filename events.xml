@@ -26,29 +26,8 @@ The Microsoft engineers presenting will take a deep dive with you into the many 
 You’ll also have the opportunity to spend time with Microsoft engineers and industry experts you know and trust to present real-world solutions and tips for productivity. Join other leaders from the Azure Data Community to connect, network and grow!
 </description>
 </event>
-<event category="Community"><title lang="en">Azure Data Explorer in a Day - Americas</title>
-<url>https://aka.ms/adxinadayamericas</url>
-<dateStart>22-Mar-2023</dateStart>
-<dateEnd>22-Mar-2023</dateEnd>
-<description>Azure Data Explorer (ADX) in a Day is an 8-hour workshop, to get familiar with Exabyte scale analytics service using ADX, Kusto Query Language, Timeseries Analytics and Dashboards through a hands-on learning experience from data ingestion to visualization. Please find more details at https://aka.ms/adxinaday
-
-Agenda:
-
-60 mins - Presentation
-150 mins - Lab 1 hands-on
-60 mins - Lunch/Dinner break
-45 mins - Presentation
-150 mins - Lab 2 hands-on
-15 mins - Wrap up/Closing</description>
-</event>
- <event category="Community"><title lang="en">SQL Saturday Costa Rica 2023 (#1044)</title>
-<url>https://sqlsaturday.com/2023-04-01-sqlsaturday1044/</url>
-<dateStart>01-Apr-2023</dateStart>
-<dateEnd>01-Apr-2023</dateEnd>
-<description>Free one day conference for database professionals.</description>
-</event>
 <event category="Community">
- <title lang="en">Citus Con: An Event for Postgres</title>
+<title lang="en">Citus Con: An Event for Postgres</title>
 <url>https://www.citusdata.com/cituscon/2023 </url>
 <dateStart>18-Apr-2023</dateStart>
 <dateEnd>19-Apr-2023</dateEnd>
