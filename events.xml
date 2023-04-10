@@ -80,13 +80,7 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
 <dateEnd>06-May-2023</dateEnd>
 <description>SQL Saturday New York City is a one day, free training event for data platform professionals, hosted at the Microsoft Technology Center in Times Square.</description>
 </event>
- <event category="Community"><title lang="en"">SQL Saturday Salt Lake City</title>
-<url>https://sqlsaturday.com/slc/</url>
-<dateStart>13-May-2023</dateStart>
-<dateEnd>13-May-2023</dateEnd>
-<description>Free one day conference for data professionals. SQL Saturday Salt Lake City will be an in person event this year and will have 4 tracks.</description>
-</event>
- <event category="Community"><title lang="en">SQL Saturday South Florida 2023 (#1053)</title>
+<event category="Community"><title lang="en">SQL Saturday South Florida 2023 (#1053)</title>
 <url>https://sqlsaturday.com/2023-06-03-sqlsaturday1053/</url>
 <dateStart>03-Jun-2023</dateStart>
 <dateEnd>03-Jun-2023</dateEnd>
