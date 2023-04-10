@@ -26,35 +26,7 @@ The Microsoft engineers presenting will take a deep dive with you into the many 
 You’ll also have the opportunity to spend time with Microsoft engineers and industry experts you know and trust to present real-world solutions and tips for productivity. Join other leaders from the Azure Data Community to connect, network and grow!
 </description>
 </event>
-<event category="Community">
- <title lang="en">SQL Bits 2023</title>
-<url>https://events.sqlbits.com/2023/</url>
-<dateStart>14-Mar-2023</dateStart>
-<dateEnd>18-Mar-2023</dateEnd>
-<description> SQLBits is THE conference for leading data professionals to network, develop and share data knowledge. SQLBits is the largest Data Platform conference with over 300 sessions over 5 days covering data technologies, including SQL Server, Azure, Big Data, Power BI, Machine Learning, and more! 
- Born out of the hunger to share the latest developments, solutions and best practice, whilst forming a network of data professionals behind some of the most exciting developments on the Modern Data Platform.
-SQLBits provides you with the education, skills and solutions from the people that have created the products, and are leading the field worldwide. This is your chance to meet the people that design and build the products you use and depend on. 
-Where?
-International Convention Centre, Celtic Manor, Newport, Wales NP18 1HQ 
-</description>
-</event>
- <event category="Community"><title lang="en">SQL Saturday Baton Rouge 2023 - BI Edition </title>
-<url>https://sqlsaturday.com/2023-03-18-sqlsaturday1045/</url>
-<dateStart>18-Mar-2023</dateStart>
-<dateEnd>18-Mar-2023</dateEnd>
-<description>Business Intelligence and Analytics focused one day free conference.</description>
-</event>
- <event category="Community"><title lang="en">DataMeetup</title>
-<url>https://t.ly/rp_L</url>
-<dateStart>18-March-2023</dateStart>
-<dateEnd>18-March-2023</dateEnd>
-<description>Sociedad Dominicana en Ciencia de Datos y la Escuela de Arte and Cultura de la Universidad Domínico Americano (UNICDA) te invitan a vivir la experiencia “DataMeetup”.
-
-Sábado 18 de marzo a las 2:00pm
-
-¡No te lo pierdas!</description>
-</event>
- <event category="Community"><title lang="en">Azure Data Explorer in a Day - Americas</title>
+<event category="Community"><title lang="en">Azure Data Explorer in a Day - Americas</title>
 <url>https://aka.ms/adxinadayamericas</url>
 <dateStart>22-Mar-2023</dateStart>
 <dateEnd>22-Mar-2023</dateEnd>
@@ -107,6 +79,12 @@ Talks are 25 minutes long and in English.  Check out the #CitusCon Call for Spea
 <dateStart>06-May-2023</dateStart>
 <dateEnd>06-May-2023</dateEnd>
 <description>SQL Saturday New York City is a one day, free training event for data platform professionals, hosted at the Microsoft Technology Center in Times Square.</description>
+</event>
+ <event category="Community"><title lang="en"">SQL Saturday Salt Lake City</title>
+<url>https://sqlsaturday.com/slc/</url>
+<dateStart>13-May-2023</dateStart>
+<dateEnd>13-May-2023</dateEnd>
+<description>Free one day conference for data professionals. SQL Saturday Salt Lake City will be an in person event this year and will have 4 tracks.</description>
 </event>
  <event category="Community"><title lang="en">SQL Saturday South Florida 2023 (#1053)</title>
 <url>https://sqlsaturday.com/2023-06-03-sqlsaturday1053/</url>
