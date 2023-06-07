@@ -41,6 +41,14 @@ You’ll also have the opportunity to spend time with Microsoft engineers and in
 <dateEnd>24-Jun-2023</dateEnd>
 <description>Free one day conference for data professionals</description>
 </event>
+ <event category="Community"><title lang="en">Data Saturday Johannesburg</title>
+<url>https://datasaturdays.com/2023-08-05-datasaturday0036/</url>
+<dateStart>05-Aug-2023</dateStart>
+<dateEnd>05-Aug-2023</dateEnd>
+<description>Data Saturday Johannesburg is a free, full-day, volunteer-led, in-person event that covers a variety of topics within the Microsoft data platform ecosystem. The event will take place in the Microsoft offices in Johannesburg, South Africa.
+
+Previously known as SQL Saturday Johannesburg, this event provides attendees with the opportunity to interact with their fellow data professionals to network and discuss challenges and solutions to some of their most pressing challenges.</description>
+</event>
  <event category="Community"><title lang="en">SQLKonferenz</title>
 <url>https://sqlkonferenz.de/</url>
 <dateStart>11-Sept-2023</dateStart>
@@ -53,6 +61,12 @@ You’ll also have the opportunity to spend time with Microsoft engineers and in
 <dateEnd>23-Sept-2023</dateEnd>
 <description>Free one day conference for data professionals</description>
 </event>
+<event category="Community"><title lang="en">Data Moshpit</title>
+<url>Http://www.data-moshpit.com</url>
+<dateStart>16-Sept-2023</dateStart>
+<dateEnd>16-Sept-2023</dateEnd>
+<description>Data Moshpit is the Metal themed Data Saturday taking place in September 2023. In a Metal Club (yes, you read right M e t a l  C l u b) in Berlin! There will be international speakers. There will be Data. There will be beer and good food. There will be a concert in the evening and of course there will be METAL!!!</description>
+</event>
  <event category="Community"><title lang="en">SQL Saturday Boston 2023</title>
 <url>https://sqlsaturday.com/2023-10-14-sqlsaturday1046/</url>
 <dateStart>14-Oct-2023</dateStart>
@@ -63,10 +77,22 @@ This is a free event for the tech community organized by SQLSatuday and New Engl
 
 Precon on October 13th, 2023: Mastering Query Tuning by Brent Ozar</description>
 </event>
+<event category="Community"><title lang="en">dataMinds Connect</title>
+<url>https://datamindsconnect.be/</url>
+<dateStart>09-Oct-2023</dateStart>
+<dateEnd>09-Oct-2023</dateEnd>
+<description>dataMinds Connect is a 2 day in-person event in the wonderful city of Mechelen, Belgium. It's an IT related event with a specific focus on the Microsoft Data Platform. 
+
+While some people may still refer back to the original name of SQL Server Days, we've adopted our dataMinds Connect brand 6 years ago keeping in mind the same core values. 2 days filled with learning, networking and a whole lot of laughs while doing so! 
+
+This year will be the 16th edition of the conference, and running for the seventh time as dataMinds Connect. Aiming to bring together all people with a passion for the Microsoft Data Platform, in all flavours possible, we're hoping to reunite with our many community members in person again, and share our common passion. Reunite with old and familiar faces, and embrace a lot of new ones!
+
+Go ahead and clearly mark Monday October 9th and Tuesday October 10th 2023 in your schedule, as these will be 2 days you don't want to miss!</description>
+</event>
  <event category="Community"><title lang="en">New Stars of Data 2023 </title>
 <url>Https://newstarsofdata.com</url>
-<dateStart>27-October-2023</dateStart>
-<dateEnd>27-October-2023</dateEnd>
+<dateStart>27-Oct-2023</dateStart>
+<dateEnd>27-Oct-2023</dateEnd>
 <description>New Stars of Data is the event for new speakers in the Microsoft Data Platform space.
 
 This online event is the perfect start for people who have not spoken at any large events before. Based on the idea behind the famous ""Newcomer Track"" at DataGrillen; we are searching for the next generation of speakers who want to take their first steps into the realm of presenting their ideas to an audience. 
@@ -75,8 +101,8 @@ We offer a mentoring program to each chosen speaker. A mentor is a seasoned spea
 </event>
 <event category="Community"><title lang="en">Live! 360 </title>
 <url>https://live360events.com/Events/Orlando-2023/Home.aspx</url>
-<dateStart>12-November-2023</dateStart>
-<dateEnd>17-November-2023</dateEnd>
+<dateStart>12-Nov-2023</dateStart>
+<dateEnd>17-Nov-2023</dateEnd>
 <description>Live! 360 returns to Orlando, November 12-17, 2023 at the Loews Royal Pacific Resort, Orlando, FL. Live! 360 offers six co-located technical conferences for the Developer, Data, Security, and IT community at one time for one low price. Incorporating knowledge transfer, networking and leading-edge training, these conferences keep attendees up-to-date on current technologies with a look to the future.
 
 Live! 360 is the perfect opportunity to get all the training you need with these co-located conferences:
@@ -99,6 +125,14 @@ The conference is organised by PostgreSQL Europe, with participation from most o
 
 PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.
 </description>
+</event>
+ <event category="Community"><title lang="en">Data Saturday München </title>
+<url>https://datasaturdays.com/2024-02-24-datasaturday0040/</url>
+<dateStart>23-Feb-2024</dateStart>
+<dateEnd>23-Feb-2024</dateEnd>
+<description>Data Saturday München is a free one-day event for professionals who use the Microsoft data platform and Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.
+
+It is being held at the Microsoft Germany Headquarters in Munich.</description>
 </event>
  <event category="Community"><title lang="en">DataGrillen 2024</title>
 <url>Https://DataGrillen.com</url>
