@@ -35,6 +35,16 @@ You’ll also have the opportunity to spend time with Microsoft engineers and in
  Beyond PowerShell, today's engineers need to understand DevOps and increasingly evolve in the cloud. Meet the welcoming PowerShell community and talk as equals. At the PowerShell Conference Europe you can sit and talk with anyone - speakers, attendees, members of the product team. 
  Share your code and show how you are solving problems so that others can learn from you and learn from those that have a different approach to the same problem. </description>
 </event>
+<event category="Community"><title lang="en">Data Toboggan</title>
+<url>https://www.meetup.com/data-toboggan/events/293548150/</url>
+<dateStart>24-Jun-2023</dateStart>
+<dateEnd>24-Jun-2023</dateEnd>
+<description>We're back, and this time we're bigger (and hopefully better) than ever.. again !!
+
+2 tracks covering all your favourite Azure Synapse Analytics content, from world-class speakers, some new voices, and perhaps one or two surprises (Fabric maybe?!)
+
+We're keeping the shorter-format talks as well, so whatever you're interested in, there's sure to be *loads* of content for you to enjoy!</description>
+</event>
  <event category="Community"><title lang="en">SQL Saturday Ica 2023 (#1051)</title>
 <url>https://sqlsaturday.com/2023-06-24-sqlsaturday1051/</url>
 <dateStart>24-Jun-2023</dateStart>
@@ -48,6 +58,12 @@ You’ll also have the opportunity to spend time with Microsoft engineers and in
 <description>Data Saturday Johannesburg is a free, full-day, volunteer-led, in-person event that covers a variety of topics within the Microsoft data platform ecosystem. The event will take place in the Microsoft offices in Johannesburg, South Africa.
 
 Previously known as SQL Saturday Johannesburg, this event provides attendees with the opportunity to interact with their fellow data professionals to network and discuss challenges and solutions to some of their most pressing challenges.</description>
+</event>
+<event category="Community"><title lang="en">DataSaturday Oslo</title>
+<url>oslo.datasaturday.no</url>
+<dateStart>02-Sept-2023</dateStart>
+<dateEnd>02-Sept-2023</dateEnd>
+<description>DataSaturday Oslo is back again! This year we have 3 pre-cons on September 1st as well as 36 hour long sessions on the main event September 2nd. You can gain in-depth knowledge about the brand new Microsoft Fabric in both pre-con as well as regular sessions! As allways, the main event is free except for if you want lunch included.</description>
 </event>
  <event category="Community"><title lang="en">SQLKonferenz</title>
 <url>https://sqlkonferenz.de/</url>
@@ -67,7 +83,13 @@ Previously known as SQL Saturday Johannesburg, this event provides attendees wit
 <dateEnd>16-Sept-2023</dateEnd>
 <description>Data Moshpit is the Metal themed Data Saturday taking place in September 2023. In a Metal Club (yes, you read right M e t a l  C l u b) in Berlin! There will be international speakers. There will be Data. There will be beer and good food. There will be a concert in the evening and of course there will be METAL!!!</description>
 </event>
- <event category="Community"><title lang="en">SQL Saturday Boston 2023</title>
+<event category="Community"><title lang="en">Future Data Driven Summit</title>
+<url>https://datadrivencommunity.com/FutureDataDriven2023.html</url>
+<dateStart>27-Sept-2023</dateStart>
+<dateEnd>27-Sept-2023</dateEnd>
+<description>Future Data Driven Summit is a marquee, online event focusing on the comprehensive Microsoft Data Platform. Our mission is to inform and update attendees with Data and AI, DevOps and DataOps, PowerBI & Visualization, Integration and Automation, and cloud infrastructure. We are excited to welcome you to participate at our free first ever Future Data Driven online event.</description>
+</event>
+<event category="Community"><title lang="en">SQL Saturday Boston 2023</title>
 <url>https://sqlsaturday.com/2023-10-14-sqlsaturday1046/</url>
 <dateStart>14-Oct-2023</dateStart>
 <dateEnd>14-Oct-2023</dateEnd>
