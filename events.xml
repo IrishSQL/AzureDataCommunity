@@ -63,16 +63,7 @@ This is a free event for the tech community organized by SQLSatuday and New Engl
 
 Precon on October 13th, 2023: Mastering Query Tuning by Brent Ozar</description>
 </event>
- <event category="Community"><title lang="en">Live! 360 returns to Orlando, November 12-17, 2023 at the Loews Royal Pacific Resort, Orlando, FL. Live! 360 offers six co-located technical conferences for the Developer, Data, Security, and IT community at one time for one low price. Incorporating knowledge transfer, networking and leading-edge training, these conferences keep attendees up-to-date on current technologies with a look to the future.
-
-Live! 360 invites you to submit proposals for our upcoming event, which includes the following co-located conferences:
-
-Visual Studio Live!
-SQL Server Live!
-TechMentor
-Artificial Intelligence Live! 
-Cloud & Containers Live!
-Cybersecurity & Ransomware Live!</title>
+<event category="Community"><title lang="en">Live! 360 </title>
 <url>https://live360events.com/Events/Orlando-2023/Home.aspx</url>
 <dateStart>12-November-2023</dateStart>
 <dateEnd>12-November-2023</dateEnd>
@@ -83,7 +74,7 @@ Visual Studio Live!
 SQL Server Live!
 TechMentor
 Artificial Intelligence Live! 
-Cloud & Containers Live!
+Cloud and Containers Live!
 Cybersecurity and Ransomware Live!</description>
 </event>
 <event category="Community">
