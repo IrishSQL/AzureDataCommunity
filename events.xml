@@ -63,10 +63,20 @@ This is a free event for the tech community organized by SQLSatuday and New Engl
 
 Precon on October 13th, 2023: Mastering Query Tuning by Brent Ozar</description>
 </event>
+ <event category="Community"><title lang="en">New Stars of Data 2023 </title>
+<url>Https://newstarsofdata.com</url>
+<dateStart>27-October-2023</dateStart>
+<dateEnd>27-October-2023</dateEnd>
+<description>New Stars of Data is the event for new speakers in the Microsoft Data Platform space.
+
+This online event is the perfect start for people who have not spoken at any large events before. Based on the idea behind the famous ""Newcomer Track"" at DataGrillen; we are searching for the next generation of speakers who want to take their first steps into the realm of presenting their ideas to an audience. 
+
+We offer a mentoring program to each chosen speaker. A mentor is a seasoned speaker who will help craft and practice your session. They will also be on hand during the presentation as a host/mentor and be able to offer the support you need to deliver a fantastic presentation. </description>
+</event>
 <event category="Community"><title lang="en">Live! 360 </title>
 <url>https://live360events.com/Events/Orlando-2023/Home.aspx</url>
 <dateStart>12-November-2023</dateStart>
-<dateEnd>12-November-2023</dateEnd>
+<dateEnd>17-November-2023</dateEnd>
 <description>Live! 360 returns to Orlando, November 12-17, 2023 at the Loews Royal Pacific Resort, Orlando, FL. Live! 360 offers six co-located technical conferences for the Developer, Data, Security, and IT community at one time for one low price. Incorporating knowledge transfer, networking and leading-edge training, these conferences keep attendees up-to-date on current technologies with a look to the future.
 
 Live! 360 is the perfect opportunity to get all the training you need with these co-located conferences:
@@ -90,4 +100,15 @@ The conference is organised by PostgreSQL Europe, with participation from most o
 PGConf.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a real network of professionals that use and work with PostgreSQL.
 </description>
 </event>
+ <event category="Community"><title lang="en">DataGrillen 2024</title>
+<url>Https://DataGrillen.com</url>
+<dateStart>17-May-2024</dateStart>
+<dateEnd>17-May-2024</dateEnd>
+<description>DataGrillen is the biggest free Microsoft Data Platform event in Germany.
+
+Our motto is ""Data, Bratwurst and Beer"", which describes our event quite well.
+
+The audience is an international mix and covers all aspects of the Microsoft Data Platform. 
+</description>
+</event>"
 </events>
